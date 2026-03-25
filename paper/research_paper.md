@@ -290,4 +290,6 @@ For practitioners, the message is direct: invest in your examples. The differenc
 
 ---
 
+**Code & Data Repository:** https://github.com/sudo-adi/llm-research-work
+
 *Manuscript prepared as part of a college-level research project on prompt engineering efficiency in large language models.*
