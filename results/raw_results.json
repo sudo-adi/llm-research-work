@@ -1,0 +1,5402 @@
+[
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 2373,
+    "output_length": 61
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 2383,
+    "output_length": 81
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 6,
+    "score": 0.75,
+    "prompt_length": 2367,
+    "output_length": 63
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 9,
+    "score": 0.425,
+    "prompt_length": 2383,
+    "output_length": 94
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 2372,
+    "output_length": 106
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 2376,
+    "output_length": 100
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 7,
+    "score": 0.8,
+    "prompt_length": 2374,
+    "output_length": 111
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 5,
+    "score": 0.8,
+    "prompt_length": 2383,
+    "output_length": 102
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 4,
+    "score": 1.0,
+    "prompt_length": 2368,
+    "output_length": 93
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 2373,
+    "output_length": 88
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 1038,
+    "output_length": 81
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 741,
+    "output_length": 81
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 1028,
+    "output_length": 61
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 6,
+    "score": 0.0,
+    "prompt_length": 725,
+    "output_length": 63
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 9,
+    "score": 0.5,
+    "prompt_length": 741,
+    "output_length": 93
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 9,
+    "score": 0.5,
+    "prompt_length": 1038,
+    "output_length": 93
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 2,
+    "score": 0.3333,
+    "prompt_length": 731,
+    "output_length": 79
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 6,
+    "score": 0.75,
+    "prompt_length": 1022,
+    "output_length": 63
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 8,
+    "score": 0.5,
+    "prompt_length": 1028,
+    "output_length": 98
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 321,
+    "output_length": 81
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 311,
+    "output_length": 61
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 1027,
+    "output_length": 106
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 730,
+    "output_length": 106
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 7,
+    "score": 0.8,
+    "prompt_length": 1029,
+    "output_length": 111
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 8,
+    "score": 0.5,
+    "prompt_length": 731,
+    "output_length": 98
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 1,
+    "score": 0.925,
+    "prompt_length": 310,
+    "output_length": 99
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 8,
+    "score": 0.5,
+    "prompt_length": 311,
+    "output_length": 98
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 5,
+    "score": 0.8,
+    "prompt_length": 741,
+    "output_length": 102
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 4,
+    "score": 0.0,
+    "prompt_length": 1023,
+    "output_length": 101
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 5,
+    "score": 0.8,
+    "prompt_length": 1038,
+    "output_length": 102
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 7,
+    "score": 0.8,
+    "prompt_length": 732,
+    "output_length": 111
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 7,
+    "score": 0.74,
+    "prompt_length": 312,
+    "output_length": 104
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 4,
+    "score": 0.2,
+    "prompt_length": 726,
+    "output_length": 113
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 4,
+    "score": 0.4,
+    "prompt_length": 306,
+    "output_length": 114
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 3,
+    "score": 0.0,
+    "prompt_length": 1031,
+    "output_length": 137
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 6,
+    "score": 0.375,
+    "prompt_length": 305,
+    "output_length": 69
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 3,
+    "score": 0.0,
+    "prompt_length": 734,
+    "output_length": 137
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 1407,
+    "output_length": 81
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 9,
+    "score": 0.25,
+    "prompt_length": 321,
+    "output_length": 104
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 1397,
+    "output_length": 61
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 3,
+    "score": 0.0,
+    "prompt_length": 314,
+    "output_length": 137
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 5,
+    "score": 0.74,
+    "prompt_length": 321,
+    "output_length": 98
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 6,
+    "score": 0.75,
+    "prompt_length": 1391,
+    "output_length": 63
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 9,
+    "score": 0.425,
+    "prompt_length": 1407,
+    "output_length": 94
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 553,
+    "output_length": 83
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 1396,
+    "output_length": 106
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 8,
+    "score": 0.5,
+    "prompt_length": 1397,
+    "output_length": 98
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 4,
+    "score": 0.2,
+    "prompt_length": 1392,
+    "output_length": 95
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 7,
+    "score": 0.8,
+    "prompt_length": 1398,
+    "output_length": 111
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 5,
+    "score": 0.8,
+    "prompt_length": 1407,
+    "output_length": 102
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 2,
+    "score": 0.8333,
+    "prompt_length": 543,
+    "output_length": 64
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 3,
+    "score": 0.6,
+    "prompt_length": 1446,
+    "output_length": 58
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 3,
+    "score": 0.0,
+    "prompt_length": 1400,
+    "output_length": 137
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 1453,
+    "output_length": 95
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 6,
+    "score": 0.375,
+    "prompt_length": 537,
+    "output_length": 69
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 803,
+    "output_length": 108
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 7,
+    "score": 0.8,
+    "prompt_length": 544,
+    "output_length": 113
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 1442,
+    "output_length": 120
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 4,
+    "score": 0.6,
+    "prompt_length": 538,
+    "output_length": 104
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 2,
+    "score": 0.8333,
+    "prompt_length": 804,
+    "output_length": 64
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 9,
+    "score": 0.25,
+    "prompt_length": 553,
+    "output_length": 99
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 5,
+    "score": 0.54,
+    "prompt_length": 553,
+    "output_length": 102
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 542,
+    "output_length": 108
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 4,
+    "score": 0.4,
+    "prompt_length": 1438,
+    "output_length": 77
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 6,
+    "score": 0.375,
+    "prompt_length": 1437,
+    "output_length": 69
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 5,
+    "score": 0.6,
+    "prompt_length": 1453,
+    "output_length": 106
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 8,
+    "score": 0.125,
+    "prompt_length": 1443,
+    "output_length": 55
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 5,
+    "score": 0.54,
+    "prompt_length": 814,
+    "output_length": 102
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 8,
+    "score": 0.5,
+    "prompt_length": 543,
+    "output_length": 102
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 9,
+    "score": 0.5,
+    "prompt_length": 814,
+    "output_length": 93
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 2,
+    "score": 0.8333,
+    "prompt_length": 1443,
+    "output_length": 76
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 6,
+    "score": 0.375,
+    "prompt_length": 798,
+    "output_length": 69
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 3,
+    "score": 0.0,
+    "prompt_length": 546,
+    "output_length": 137
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 4,
+    "score": 0.6,
+    "prompt_length": 799,
+    "output_length": 104
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 814,
+    "output_length": 83
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 8,
+    "score": 0.5,
+    "prompt_length": 804,
+    "output_length": 102
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 7,
+    "score": 0.8,
+    "prompt_length": 1444,
+    "output_length": 113
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 9,
+    "score": 0.175,
+    "prompt_length": 1453,
+    "output_length": 100
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 3,
+    "score": 0.0,
+    "prompt_length": 807,
+    "output_length": 137
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 7,
+    "score": 0.8,
+    "prompt_length": 805,
+    "output_length": 113
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 0,
+    "score": 0.0,
+    "prompt_length": 210,
+    "output_length": 274
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 2,
+    "score": 0.0,
+    "prompt_length": 200,
+    "output_length": 220
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 5,
+    "score": 0.0,
+    "prompt_length": 210,
+    "output_length": 303
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 1,
+    "score": 0.0,
+    "prompt_length": 199,
+    "output_length": 298
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 3,
+    "score": 0.14,
+    "prompt_length": 203,
+    "output_length": 311
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 9,
+    "score": 0.0,
+    "prompt_length": 210,
+    "output_length": 259
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 6,
+    "score": 0.0,
+    "prompt_length": 194,
+    "output_length": 235
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 4,
+    "score": 0.0,
+    "prompt_length": 195,
+    "output_length": 267
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 8,
+    "score": 0.0,
+    "prompt_length": 200,
+    "output_length": 261
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 7,
+    "score": 0.0,
+    "prompt_length": 201,
+    "output_length": 305
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 8,
+    "score": 0.0,
+    "prompt_length": 377,
+    "output_length": 502
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 6,
+    "score": 0.0,
+    "prompt_length": 371,
+    "output_length": 467
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 3,
+    "score": 0.14,
+    "prompt_length": 380,
+    "output_length": 548
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 0,
+    "score": 0.0,
+    "prompt_length": 387,
+    "output_length": 493
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 9,
+    "score": 0.0,
+    "prompt_length": 387,
+    "output_length": 514
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 0,
+    "score": 0.7857,
+    "prompt_length": 742,
+    "output_length": 408
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 1,
+    "score": 0.9,
+    "prompt_length": 672,
+    "output_length": 326
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 7,
+    "score": 0.0,
+    "prompt_length": 378,
+    "output_length": 554
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 657,
+    "output_length": 431
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 2,
+    "score": 0.875,
+    "prompt_length": 700,
+    "output_length": 409
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 5,
+    "score": 0.0,
+    "prompt_length": 387,
+    "output_length": 520
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 1,
+    "score": 0.9,
+    "prompt_length": 913,
+    "output_length": 312
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 4,
+    "score": 0.0,
+    "prompt_length": 372,
+    "output_length": 556
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 0,
+    "score": 0.7857,
+    "prompt_length": 983,
+    "output_length": 405
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 9,
+    "score": 0.6667,
+    "prompt_length": 711,
+    "output_length": 409
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 7,
+    "score": 0.7,
+    "prompt_length": 760,
+    "output_length": 487
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 1,
+    "score": 0.0,
+    "prompt_length": 376,
+    "output_length": 524
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 3,
+    "score": 0.8333,
+    "prompt_length": 898,
+    "output_length": 211
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 2,
+    "score": 0.875,
+    "prompt_length": 941,
+    "output_length": 218
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 4,
+    "score": 0.4167,
+    "prompt_length": 748,
+    "output_length": 657
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 2,
+    "score": 0.875,
+    "prompt_length": 1246,
+    "output_length": 200
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 5,
+    "score": 0.75,
+    "prompt_length": 985,
+    "output_length": 371
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 3,
+    "score": 0.8333,
+    "prompt_length": 1203,
+    "output_length": 211
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 0,
+    "score": 0.7857,
+    "prompt_length": 1288,
+    "output_length": 386
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 1,
+    "score": 0.9,
+    "prompt_length": 1218,
+    "output_length": 392
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 5,
+    "score": 0.875,
+    "prompt_length": 744,
+    "output_length": 927
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 2,
+    "score": 0.0,
+    "prompt_length": 572,
+    "output_length": 735
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 0,
+    "score": 0.0,
+    "prompt_length": 582,
+    "output_length": 758
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 9,
+    "score": 0.0,
+    "prompt_length": 582,
+    "output_length": 762
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 1,
+    "score": 0.0,
+    "prompt_length": 571,
+    "output_length": 789
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 8,
+    "score": 0.0,
+    "prompt_length": 572,
+    "output_length": 767
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 9,
+    "score": 0.6667,
+    "prompt_length": 952,
+    "output_length": 435
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 4,
+    "score": 0.0,
+    "prompt_length": 567,
+    "output_length": 772
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 3,
+    "score": 0.14,
+    "prompt_length": 575,
+    "output_length": 813
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 5,
+    "score": 0.875,
+    "prompt_length": 1290,
+    "output_length": 386
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 7,
+    "score": 0.0,
+    "prompt_length": 573,
+    "output_length": 859
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 5,
+    "score": 0.0,
+    "prompt_length": 582,
+    "output_length": 852
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 6,
+    "score": 0.0,
+    "prompt_length": 566,
+    "output_length": 741
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 8,
+    "score": 0.4643,
+    "prompt_length": 678,
+    "output_length": 1121
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 2,
+    "score": 0.875,
+    "prompt_length": 2125,
+    "output_length": 152
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 4,
+    "score": 0.5,
+    "prompt_length": 989,
+    "output_length": 826
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 7,
+    "score": 0.7,
+    "prompt_length": 1306,
+    "output_length": 511
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 2,
+    "score": 0.0,
+    "prompt_length": 377,
+    "output_length": 470
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 4,
+    "score": 0.5,
+    "prompt_length": 1294,
+    "output_length": 592
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 1,
+    "score": 0.9,
+    "prompt_length": 2097,
+    "output_length": 321
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 3,
+    "score": 0.8333,
+    "prompt_length": 2082,
+    "output_length": 211
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 0,
+    "score": 0.7857,
+    "prompt_length": 2167,
+    "output_length": 383
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 9,
+    "score": 0.6667,
+    "prompt_length": 1257,
+    "output_length": 409
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 6,
+    "score": 0.875,
+    "prompt_length": 1153,
+    "output_length": 890
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 5,
+    "score": 0.875,
+    "prompt_length": 2169,
+    "output_length": 382
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 7,
+    "score": 0.7,
+    "prompt_length": 2185,
+    "output_length": 507
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 9,
+    "score": 0.6667,
+    "prompt_length": 2136,
+    "output_length": 413
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 8,
+    "score": 0.6429,
+    "prompt_length": 919,
+    "output_length": 1113
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 6,
+    "score": 0.875,
+    "prompt_length": 1458,
+    "output_length": 847
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 8,
+    "score": 0.3929,
+    "prompt_length": 1224,
+    "output_length": 1028
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 4,
+    "score": 0.8333,
+    "prompt_length": 2173,
+    "output_length": 761
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 8,
+    "score": 0.0,
+    "prompt_length": 1130,
+    "output_length": 1643
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 7,
+    "score": 0.0,
+    "prompt_length": 1131,
+    "output_length": 1680
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 0,
+    "score": 0.0,
+    "prompt_length": 1140,
+    "output_length": 1643
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 0,
+    "score": 0.8571,
+    "prompt_length": 455,
+    "output_length": 1122
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 9,
+    "score": 0.0,
+    "prompt_length": 1140,
+    "output_length": 1676
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 1,
+    "score": 0.0,
+    "prompt_length": 1129,
+    "output_length": 1672
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 2,
+    "score": 0.0,
+    "prompt_length": 1130,
+    "output_length": 1592
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 5,
+    "score": 0.0,
+    "prompt_length": 1140,
+    "output_length": 1680
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 3,
+    "score": 0.0,
+    "prompt_length": 1133,
+    "output_length": 1704
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 7,
+    "score": 0.7,
+    "prompt_length": 1001,
+    "output_length": 1645
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 413,
+    "output_length": 716
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 3,
+    "score": 0.8,
+    "prompt_length": 370,
+    "output_length": 749
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 6,
+    "score": 0.0,
+    "prompt_length": 1124,
+    "output_length": 1646
+  },
+  {
+    "domain": "json_extraction",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 4,
+    "score": 0.0,
+    "prompt_length": 1125,
+    "output_length": 1719
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 1,
+    "score": 0.9,
+    "prompt_length": 227,
+    "output_length": 1141
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 2,
+    "score": 0.875,
+    "prompt_length": 255,
+    "output_length": 1059
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 297,
+    "output_length": 1230
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 6,
+    "score": 0.9375,
+    "prompt_length": 2337,
+    "output_length": 1195
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 3,
+    "score": 0.8,
+    "prompt_length": 212,
+    "output_length": 837
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 601,
+    "output_length": 701
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 3,
+    "score": 0.8,
+    "prompt_length": 558,
+    "output_length": 718
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 8,
+    "score": 0.2143,
+    "prompt_length": 233,
+    "output_length": 1364
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 9,
+    "score": 0.8333,
+    "prompt_length": 266,
+    "output_length": 1398
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 5,
+    "score": 0.875,
+    "prompt_length": 645,
+    "output_length": 740
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 1,
+    "score": 0.9,
+    "prompt_length": 573,
+    "output_length": 1044
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 7,
+    "score": 0.8,
+    "prompt_length": 473,
+    "output_length": 1426
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 467,
+    "output_length": 1408
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 9,
+    "score": 0.8333,
+    "prompt_length": 424,
+    "output_length": 1009
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 5,
+    "score": 0.75,
+    "prompt_length": 299,
+    "output_length": 1303
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 4,
+    "score": 0.5,
+    "prompt_length": 461,
+    "output_length": 1308
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 4,
+    "score": 0.5833,
+    "prompt_length": 303,
+    "output_length": 1703
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 7,
+    "score": 0.8,
+    "prompt_length": 315,
+    "output_length": 1819
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 5,
+    "score": 0.75,
+    "prompt_length": 457,
+    "output_length": 1188
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 0,
+    "score": 0.9286,
+    "prompt_length": 643,
+    "output_length": 1258
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 6,
+    "score": 0.875,
+    "prompt_length": 912,
+    "output_length": 2427
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 1,
+    "score": 0.9,
+    "prompt_length": 385,
+    "output_length": 999
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 8,
+    "score": 0.4643,
+    "prompt_length": 391,
+    "output_length": 1093
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 0,
+    "score": 0.8571,
+    "prompt_length": 1099,
+    "output_length": 797
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 3,
+    "score": 0.8,
+    "prompt_length": 1014,
+    "output_length": 588
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 1057,
+    "output_length": 709
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 4,
+    "score": 0.5833,
+    "prompt_length": 649,
+    "output_length": 1519
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 6,
+    "score": 0.9375,
+    "prompt_length": 813,
+    "output_length": 1202
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 1,
+    "score": 0.9,
+    "prompt_length": 1029,
+    "output_length": 1021
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 8,
+    "score": 0.2143,
+    "prompt_length": 579,
+    "output_length": 1428
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 9,
+    "score": 0.8333,
+    "prompt_length": 612,
+    "output_length": 1166
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 8,
+    "score": 0.3929,
+    "prompt_length": 2103,
+    "output_length": 1947
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 7,
+    "score": 0.9,
+    "prompt_length": 661,
+    "output_length": 1567
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 6,
+    "score": 0.9375,
+    "prompt_length": 625,
+    "output_length": 1354
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 141,
+    "output_length": 1174
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 3,
+    "score": 0.2,
+    "prompt_length": 98,
+    "output_length": 998
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 5,
+    "score": 0.875,
+    "prompt_length": 1101,
+    "output_length": 964
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 1,
+    "score": 0.8,
+    "prompt_length": 113,
+    "output_length": 1151
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 9,
+    "score": 0.8333,
+    "prompt_length": 1068,
+    "output_length": 927
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 8,
+    "score": 0.0714,
+    "prompt_length": 119,
+    "output_length": 1028
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 5,
+    "score": 0.75,
+    "prompt_length": 185,
+    "output_length": 1585
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 0,
+    "score": 0.7857,
+    "prompt_length": 183,
+    "output_length": 1101
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 4,
+    "score": 0.5,
+    "prompt_length": 1105,
+    "output_length": 1091
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 6,
+    "score": 0.875,
+    "prompt_length": 353,
+    "output_length": 1327
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 3,
+    "score": 0.6333,
+    "prompt_length": 197,
+    "output_length": 1315
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 8,
+    "score": 0.2143,
+    "prompt_length": 1035,
+    "output_length": 1320
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 4,
+    "score": 0.5833,
+    "prompt_length": 189,
+    "output_length": 1646
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 7,
+    "score": 0.7,
+    "prompt_length": 1117,
+    "output_length": 1358
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 9,
+    "score": 0.6667,
+    "prompt_length": 152,
+    "output_length": 1362
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 0,
+    "score": 0.8571,
+    "prompt_length": 282,
+    "output_length": 1634
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 2,
+    "score": 0.75,
+    "prompt_length": 240,
+    "output_length": 1397
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 7,
+    "score": 0.7,
+    "prompt_length": 201,
+    "output_length": 1789
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 641,
+    "output_length": 468
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 623,
+    "output_length": 247
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 6,
+    "score": 0.875,
+    "prompt_length": 1269,
+    "output_length": 1254
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 666,
+    "output_length": 388
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 622,
+    "output_length": 239
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 1,
+    "score": 0.9,
+    "prompt_length": 212,
+    "output_length": 1673
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 643,
+    "output_length": 275
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 619,
+    "output_length": 393
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 9,
+    "score": 0.8333,
+    "prompt_length": 251,
+    "output_length": 1576
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 615,
+    "output_length": 305
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 641,
+    "output_length": 303
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 5,
+    "score": 0.875,
+    "prompt_length": 284,
+    "output_length": 1608
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 933,
+    "output_length": 209
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 4,
+    "score": 1.0,
+    "prompt_length": 641,
+    "output_length": 569
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 976,
+    "output_length": 288
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 9,
+    "score": 1.0,
+    "prompt_length": 634,
+    "output_length": 365
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 932,
+    "output_length": 213
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 925,
+    "output_length": 167
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 951,
+    "output_length": 391
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 929,
+    "output_length": 356
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 951,
+    "output_length": 183
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 9,
+    "score": 1.0,
+    "prompt_length": 944,
+    "output_length": 225
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 953,
+    "output_length": 269
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 1226,
+    "output_length": 209
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 1218,
+    "output_length": 164
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 8,
+    "score": 0.6429,
+    "prompt_length": 218,
+    "output_length": 1588
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 1222,
+    "output_length": 253
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 1244,
+    "output_length": 179
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 1246,
+    "output_length": 273
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 4,
+    "score": 1.0,
+    "prompt_length": 951,
+    "output_length": 604
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 1269,
+    "output_length": 288
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 1225,
+    "output_length": 185
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 1244,
+    "output_length": 391
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 7,
+    "score": 0.55,
+    "prompt_length": 300,
+    "output_length": 1755
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 9,
+    "score": 1.0,
+    "prompt_length": 1237,
+    "output_length": 228
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 1931,
+    "output_length": 209
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 4,
+    "score": 1.0,
+    "prompt_length": 1244,
+    "output_length": 520
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 0,
+    "score": 0.8571,
+    "prompt_length": 406,
+    "output_length": 1584
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 1923,
+    "output_length": 138
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 1927,
+    "output_length": 183
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 1974,
+    "output_length": 332
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 1949,
+    "output_length": 163
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 1930,
+    "output_length": 209
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 1949,
+    "output_length": 375
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 1951,
+    "output_length": 304
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 9,
+    "score": 1.0,
+    "prompt_length": 1942,
+    "output_length": 253
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 6,
+    "score": 0.9375,
+    "prompt_length": 576,
+    "output_length": 2067
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 8,
+    "score": 0.1429,
+    "prompt_length": 342,
+    "output_length": 2199
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 7,
+    "score": 0.55,
+    "prompt_length": 424,
+    "output_length": 1514
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 3,
+    "score": 0.3667,
+    "prompt_length": 321,
+    "output_length": 1417
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 6,
+    "score": 0.9375,
+    "prompt_length": 452,
+    "output_length": 1617
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 3,
+    "score": 0.2,
+    "prompt_length": 596,
+    "output_length": 1963
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 4,
+    "score": 1.0,
+    "prompt_length": 1949,
+    "output_length": 558
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 0,
+    "score": 0.9286,
+    "prompt_length": 681,
+    "output_length": 2082
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 4,
+    "score": 0.8333,
+    "prompt_length": 687,
+    "output_length": 1988
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 7,
+    "score": 0.0,
+    "prompt_length": 222,
+    "output_length": 502
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 364,
+    "output_length": 2445
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 7,
+    "score": 0.35,
+    "prompt_length": 699,
+    "output_length": 1945
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 7,
+    "score": 0.0,
+    "prompt_length": 391,
+    "output_length": 352
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 6,
+    "score": 0.0,
+    "prompt_length": 419,
+    "output_length": 635
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 6,
+    "score": 0.875,
+    "prompt_length": 851,
+    "output_length": 2107
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 2,
+    "score": 0.75,
+    "prompt_length": 639,
+    "output_length": 2439
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 4,
+    "score": 0.5,
+    "prompt_length": 288,
+    "output_length": 2509
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 1,
+    "score": 0.8,
+    "prompt_length": 611,
+    "output_length": 2397
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 230,
+    "output_length": 586
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 2,
+    "score": 0.0,
+    "prompt_length": 399,
+    "output_length": 418
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 8,
+    "score": 0.1429,
+    "prompt_length": 617,
+    "output_length": 1934
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 0,
+    "score": 0.0,
+    "prompt_length": 442,
+    "output_length": 695
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 226,
+    "output_length": 566
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 0,
+    "score": 0.0,
+    "prompt_length": 273,
+    "output_length": 809
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 5,
+    "score": 0.4583,
+    "prompt_length": 683,
+    "output_length": 2144
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 9,
+    "score": 1.0,
+    "prompt_length": 241,
+    "output_length": 706
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 1,
+    "score": 0.9,
+    "prompt_length": 336,
+    "output_length": 2383
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 5,
+    "score": 0.0,
+    "prompt_length": 229,
+    "output_length": 658
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 8,
+    "score": 0.0,
+    "prompt_length": 417,
+    "output_length": 592
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 1,
+    "score": 0.0,
+    "prompt_length": 248,
+    "output_length": 841
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 2,
+    "score": 0.0,
+    "prompt_length": 555,
+    "output_length": 418
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 9,
+    "score": 0.6667,
+    "prompt_length": 650,
+    "output_length": 2060
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 7,
+    "score": 0.0,
+    "prompt_length": 547,
+    "output_length": 352
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 398,
+    "output_length": 787
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 554,
+    "output_length": 479
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 8,
+    "score": 0.0,
+    "prompt_length": 248,
+    "output_length": 738
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 3,
+    "score": 0.0,
+    "prompt_length": 395,
+    "output_length": 532
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 4,
+    "score": 0.5,
+    "prompt_length": 412,
+    "output_length": 3077
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 1,
+    "score": 0.0,
+    "prompt_length": 417,
+    "output_length": 832
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 1,
+    "score": 0.0,
+    "prompt_length": 573,
+    "output_length": 660
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 6,
+    "score": 0.0,
+    "prompt_length": 250,
+    "output_length": 818
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 0,
+    "score": 0.0,
+    "prompt_length": 598,
+    "output_length": 720
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 3,
+    "score": 0.0,
+    "prompt_length": 551,
+    "output_length": 499
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 7,
+    "score": 0.0,
+    "prompt_length": 884,
+    "output_length": 313
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 5,
+    "score": 0.4583,
+    "prompt_length": 408,
+    "output_length": 2632
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 4,
+    "score": 0.0,
+    "prompt_length": 248,
+    "output_length": 1142
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 2,
+    "score": 0.0,
+    "prompt_length": 892,
+    "output_length": 418
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 9,
+    "score": 1.0,
+    "prompt_length": 410,
+    "output_length": 633
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 8,
+    "score": 0.0,
+    "prompt_length": 573,
+    "output_length": 686
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 4,
+    "score": 0.0,
+    "prompt_length": 417,
+    "output_length": 1029
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 9,
+    "score": 1.0,
+    "prompt_length": 566,
+    "output_length": 631
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 0,
+    "score": 0.0,
+    "prompt_length": 935,
+    "output_length": 688
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 127,
+    "output_length": 511
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 1,
+    "score": 0.0,
+    "prompt_length": 910,
+    "output_length": 563
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 151,
+    "output_length": 553
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 6,
+    "score": 0.0,
+    "prompt_length": 575,
+    "output_length": 704
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 7,
+    "score": 0.0,
+    "prompt_length": 123,
+    "output_length": 477
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 174,
+    "output_length": 545
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 131,
+    "output_length": 633
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 245,
+    "output_length": 356
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 6,
+    "score": 0.0,
+    "prompt_length": 912,
+    "output_length": 607
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 130,
+    "output_length": 516
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 7,
+    "score": 0.0,
+    "prompt_length": 241,
+    "output_length": 229
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 8,
+    "score": 0.0,
+    "prompt_length": 910,
+    "output_length": 572
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 5,
+    "score": 0.0,
+    "prompt_length": 891,
+    "output_length": 580
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 4,
+    "score": 0.0,
+    "prompt_length": 573,
+    "output_length": 1016
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 3,
+    "score": 0.0,
+    "prompt_length": 888,
+    "output_length": 499
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 149,
+    "output_length": 572
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 366,
+    "output_length": 381
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 249,
+    "output_length": 392
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 267,
+    "output_length": 563
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 9,
+    "score": 1.0,
+    "prompt_length": 903,
+    "output_length": 594
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 7,
+    "score": 0.0,
+    "prompt_length": 358,
+    "output_length": 229
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 149,
+    "output_length": 731
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 292,
+    "output_length": 469
+  },
+  {
+    "domain": "code_debugging",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 9,
+    "score": 0.8333,
+    "prompt_length": 375,
+    "output_length": 2693
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 269,
+    "output_length": 516
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 9,
+    "score": 0.0,
+    "prompt_length": 260,
+    "output_length": 467
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 267,
+    "output_length": 444
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 409,
+    "output_length": 473
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 2,
+    "score": 0.875,
+    "prompt_length": 1078,
+    "output_length": 241
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 1,
+    "score": 0.5208,
+    "prompt_length": 1104,
+    "output_length": 361
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 1123,
+    "output_length": 311
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 362,
+    "output_length": 396
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 9,
+    "score": 0.0,
+    "prompt_length": 142,
+    "output_length": 791
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 4,
+    "score": 0.9167,
+    "prompt_length": 1075,
+    "output_length": 296
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 0,
+    "score": 0.8833,
+    "prompt_length": 1138,
+    "output_length": 332
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 4,
+    "score": 1.0,
+    "prompt_length": 149,
+    "output_length": 898
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 1052,
+    "output_length": 301
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 4,
+    "score": 1.0,
+    "prompt_length": 267,
+    "output_length": 691
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 1057,
+    "output_length": 295
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 4,
+    "score": 0.0,
+    "prompt_length": 910,
+    "output_length": 941
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 1113,
+    "output_length": 350
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 7,
+    "score": 0.0,
+    "prompt_length": 601,
+    "output_length": 229
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 1087,
+    "output_length": 352
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 9,
+    "score": 1.0,
+    "prompt_length": 1108,
+    "output_length": 351
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 1,
+    "score": 0.5208,
+    "prompt_length": 1843,
+    "output_length": 367
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 2,
+    "score": 0.875,
+    "prompt_length": 1817,
+    "output_length": 244
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 4,
+    "score": 0.9167,
+    "prompt_length": 1814,
+    "output_length": 297
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 609,
+    "output_length": 371
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 1862,
+    "output_length": 330
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 1791,
+    "output_length": 301
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 1826,
+    "output_length": 352
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 627,
+    "output_length": 365
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 9,
+    "score": 0.0,
+    "prompt_length": 377,
+    "output_length": 522
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 0,
+    "score": 0.8833,
+    "prompt_length": 1877,
+    "output_length": 339
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 248,
+    "output_length": 777
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 4,
+    "score": 0.9167,
+    "prompt_length": 2652,
+    "output_length": 297
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 1796,
+    "output_length": 298
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 2634,
+    "output_length": 298
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 2700,
+    "output_length": 330
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 1,
+    "score": 0.5208,
+    "prompt_length": 2681,
+    "output_length": 367
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 9,
+    "score": 1.0,
+    "prompt_length": 1847,
+    "output_length": 345
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 2,
+    "score": 0.875,
+    "prompt_length": 2655,
+    "output_length": 309
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 608,
+    "output_length": 373
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 1852,
+    "output_length": 348
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 605,
+    "output_length": 354
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 2629,
+    "output_length": 301
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 2690,
+    "output_length": 352
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 652,
+    "output_length": 513
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 0,
+    "score": 0.7833,
+    "prompt_length": 4904,
+    "output_length": 332
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 2664,
+    "output_length": 352
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 4889,
+    "output_length": 317
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 1,
+    "score": 0.5208,
+    "prompt_length": 4870,
+    "output_length": 367
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 9,
+    "score": 1.0,
+    "prompt_length": 2685,
+    "output_length": 345
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 4,
+    "score": 0.9167,
+    "prompt_length": 4841,
+    "output_length": 297
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 9,
+    "score": 0.0,
+    "prompt_length": 620,
+    "output_length": 456
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 4818,
+    "output_length": 301
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 4823,
+    "output_length": 298
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 2,
+    "score": 0.875,
+    "prompt_length": 4844,
+    "output_length": 316
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 2,
+    "score": 0.7917,
+    "prompt_length": 829,
+    "output_length": 185
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 2,
+    "score": 0.7917,
+    "prompt_length": 535,
+    "output_length": 199
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 7,
+    "score": 0.875,
+    "prompt_length": 514,
+    "output_length": 288
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 1,
+    "score": 0.6875,
+    "prompt_length": 561,
+    "output_length": 306
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 4853,
+    "output_length": 347
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 808,
+    "output_length": 288
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 0,
+    "score": 0.8333,
+    "prompt_length": 595,
+    "output_length": 339
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 0,
+    "score": 0.9333,
+    "prompt_length": 889,
+    "output_length": 332
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 0,
+    "score": 0.8833,
+    "prompt_length": 2715,
+    "output_length": 339
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 384,
+    "output_length": 578
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 4879,
+    "output_length": 350
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 8,
+    "score": 0.4583,
+    "prompt_length": 544,
+    "output_length": 310
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 803,
+    "output_length": 286
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 580,
+    "output_length": 299
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 8,
+    "score": 0.4583,
+    "prompt_length": 838,
+    "output_length": 304
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 5,
+    "score": 0.75,
+    "prompt_length": 570,
+    "output_length": 236
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 4,
+    "score": 1.0,
+    "prompt_length": 627,
+    "output_length": 663
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 9,
+    "score": 1.0,
+    "prompt_length": 4874,
+    "output_length": 329
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 4,
+    "score": 0.9167,
+    "prompt_length": 532,
+    "output_length": 288
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 509,
+    "output_length": 252
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 4,
+    "score": 1.0,
+    "prompt_length": 384,
+    "output_length": 950
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 2,
+    "score": 0.7917,
+    "prompt_length": 1104,
+    "output_length": 185
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 0,
+    "score": 0.7,
+    "prompt_length": 1164,
+    "output_length": 286
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 629,
+    "output_length": 577
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 5,
+    "score": 0.75,
+    "prompt_length": 1139,
+    "output_length": 219
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 565,
+    "output_length": 279
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 4,
+    "score": 0.9167,
+    "prompt_length": 1101,
+    "output_length": 250
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 7,
+    "score": 0.875,
+    "prompt_length": 1083,
+    "output_length": 271
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 1,
+    "score": 0.7708,
+    "prompt_length": 1130,
+    "output_length": 309
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 3,
+    "score": 0.9,
+    "prompt_length": 1149,
+    "output_length": 265
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 1078,
+    "output_length": 259
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 2,
+    "score": 0.7917,
+    "prompt_length": 1811,
+    "output_length": 191
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 8,
+    "score": 0.4583,
+    "prompt_length": 1113,
+    "output_length": 304
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 3,
+    "score": 0.9,
+    "prompt_length": 1856,
+    "output_length": 252
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 7,
+    "score": 0.875,
+    "prompt_length": 1790,
+    "output_length": 271
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 1,
+    "score": 0.7708,
+    "prompt_length": 1837,
+    "output_length": 309
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 5,
+    "score": 0.75,
+    "prompt_length": 1846,
+    "output_length": 219
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 627,
+    "output_length": 744
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 4,
+    "score": 0.9167,
+    "prompt_length": 1808,
+    "output_length": 250
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 0,
+    "score": 0.7,
+    "prompt_length": 1871,
+    "output_length": 279
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 1785,
+    "output_length": 237
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 1134,
+    "output_length": 288
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 8,
+    "score": 0.4583,
+    "prompt_length": 1820,
+    "output_length": 291
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 1841,
+    "output_length": 272
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 7,
+    "score": 0.875,
+    "prompt_length": 391,
+    "output_length": 363
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 2,
+    "score": 0.875,
+    "prompt_length": 412,
+    "output_length": 266
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 3,
+    "score": 0.9,
+    "prompt_length": 457,
+    "output_length": 368
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 5,
+    "score": 0.875,
+    "prompt_length": 447,
+    "output_length": 406
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 4,
+    "score": 0.9167,
+    "prompt_length": 409,
+    "output_length": 389
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 1,
+    "score": 0.6042,
+    "prompt_length": 438,
+    "output_length": 434
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 386,
+    "output_length": 346
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 3,
+    "score": 0.9,
+    "prompt_length": 874,
+    "output_length": 265
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 365,
+    "output_length": 994
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 0,
+    "score": 0.8333,
+    "prompt_length": 472,
+    "output_length": 420
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 5,
+    "score": 0.75,
+    "prompt_length": 864,
+    "output_length": 228
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 442,
+    "output_length": 397
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 1,
+    "score": 0.7708,
+    "prompt_length": 855,
+    "output_length": 309
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 1,
+    "score": 0.3542,
+    "prompt_length": 621,
+    "output_length": 522
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 640,
+    "output_length": 554
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 4,
+    "score": 0.5417,
+    "prompt_length": 826,
+    "output_length": 283
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 859,
+    "output_length": 279
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 2,
+    "score": 0.875,
+    "prompt_length": 595,
+    "output_length": 429
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 745,
+    "output_length": 54
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 737,
+    "output_length": 41
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 741,
+    "output_length": 78
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 725,
+    "output_length": 53
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 732,
+    "output_length": 90
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 0,
+    "score": 0.9333,
+    "prompt_length": 655,
+    "output_length": 554
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 737,
+    "output_length": 67
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 8,
+    "score": 0.875,
+    "prompt_length": 421,
+    "output_length": 396
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 625,
+    "output_length": 491
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 4,
+    "score": 0.9167,
+    "prompt_length": 592,
+    "output_length": 595
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 4,
+    "score": 1.0,
+    "prompt_length": 746,
+    "output_length": 114
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 717,
+    "output_length": 61
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 2,
+    "score": 0.875,
+    "prompt_length": 768,
+    "output_length": 639
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 733,
+    "output_length": 75
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 935,
+    "output_length": 54
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 569,
+    "output_length": 526
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 927,
+    "output_length": 41
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 915,
+    "output_length": 53
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 931,
+    "output_length": 78
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 386,
+    "output_length": 1130
+  },
+  {
+    "domain": "math_word_problems",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 384,
+    "output_length": 1008
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 813,
+    "output_length": 731
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 5,
+    "score": 0.875,
+    "prompt_length": 630,
+    "output_length": 527
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 923,
+    "output_length": 75
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 922,
+    "output_length": 90
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 907,
+    "output_length": 35
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 927,
+    "output_length": 67
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 1201,
+    "output_length": 54
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 1193,
+    "output_length": 41
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 0,
+    "score": 0.9333,
+    "prompt_length": 828,
+    "output_length": 775
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 1181,
+    "output_length": 53
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 574,
+    "output_length": 569
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 1197,
+    "output_length": 78
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 4,
+    "score": 1.0,
+    "prompt_length": 936,
+    "output_length": 114
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 9,
+    "score": 1.0,
+    "prompt_length": 798,
+    "output_length": 762
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 1,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 736,
+    "output_length": 208
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 1,
+    "score": 0.4167,
+    "prompt_length": 794,
+    "output_length": 770
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 8,
+    "score": 0.9167,
+    "prompt_length": 777,
+    "output_length": 721
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 742,
+    "output_length": 719
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 1173,
+    "output_length": 35
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 3,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 926,
+    "output_length": 121
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 1188,
+    "output_length": 90
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 1795,
+    "output_length": 54
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 1193,
+    "output_length": 67
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 1189,
+    "output_length": 75
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 4,
+    "score": 1.0,
+    "prompt_length": 1202,
+    "output_length": 99
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 1791,
+    "output_length": 78
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 1787,
+    "output_length": 41
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 5,
+    "score": 0.875,
+    "prompt_length": 803,
+    "output_length": 727
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 1,
+    "score": 0.4167,
+    "prompt_length": 1210,
+    "output_length": 900
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 1775,
+    "output_length": 53
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 253,
+    "output_length": 53
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 1787,
+    "output_length": 67
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 1786,
+    "output_length": 121
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 240,
+    "output_length": 84
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 4,
+    "score": 0.9167,
+    "prompt_length": 765,
+    "output_length": 632
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 8,
+    "score": 0.9167,
+    "prompt_length": 604,
+    "output_length": 503
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 245,
+    "output_length": 40
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 2,
+    "score": 0.875,
+    "prompt_length": 1184,
+    "output_length": 871
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 225,
+    "output_length": 35
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 1767,
+    "output_length": 35
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 3,
+    "score": 0.7,
+    "prompt_length": 1229,
+    "output_length": 877
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 233,
+    "output_length": 52
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 5,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 1192,
+    "output_length": 121
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 409,
+    "output_length": 53
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 1783,
+    "output_length": 75
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 1782,
+    "output_length": 84
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 7,
+    "score": 0.875,
+    "prompt_length": 1163,
+    "output_length": 926
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 4,
+    "score": 0.8333,
+    "prompt_length": 1181,
+    "output_length": 897
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 4,
+    "score": 0.5,
+    "prompt_length": 254,
+    "output_length": 82
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 397,
+    "output_length": 57
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 241,
+    "output_length": 75
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 396,
+    "output_length": 65
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 249,
+    "output_length": 78
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 381,
+    "output_length": 34
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 405,
+    "output_length": 77
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 245,
+    "output_length": 66
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 4,
+    "score": 0.5,
+    "prompt_length": 410,
+    "output_length": 81
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 389,
+    "output_length": 52
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "high",
+    "n_shots": 10,
+    "case_index": 4,
+    "score": 1.0,
+    "prompt_length": 1796,
+    "output_length": 96
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 401,
+    "output_length": 40
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 1158,
+    "output_length": 923
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 1214,
+    "output_length": 889
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 747,
+    "output_length": 672
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 641,
+    "output_length": 53
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 1,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 244,
+    "output_length": 115
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 633,
+    "output_length": 40
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 5,
+    "score": 0.875,
+    "prompt_length": 1219,
+    "output_length": 1003
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 613,
+    "output_length": 34
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 637,
+    "output_length": 77
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 621,
+    "output_length": 52
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 628,
+    "output_length": 65
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 629,
+    "output_length": 57
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 1129,
+    "output_length": 53
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 1101,
+    "output_length": 34
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 4,
+    "score": 0.5,
+    "prompt_length": 642,
+    "output_length": 72
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 1117,
+    "output_length": 57
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 1109,
+    "output_length": 52
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 1125,
+    "output_length": 61
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 1121,
+    "output_length": 40
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 4,
+    "score": 0.5,
+    "prompt_length": 1130,
+    "output_length": 72
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 633,
+    "output_length": 66
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 400,
+    "output_length": 133
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 1116,
+    "output_length": 65
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 1121,
+    "output_length": 66
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 8,
+    "score": 0.5833,
+    "prompt_length": 1193,
+    "output_length": 859
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 10,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 1120,
+    "output_length": 114
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 5,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 632,
+    "output_length": 129
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "medium",
+    "n_shots": 3,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 401,
+    "output_length": 66
+  },
+  {
+    "domain": "text_summarization",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 0,
+    "score": 0.8333,
+    "prompt_length": 1244,
+    "output_length": 1002
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 171,
+    "output_length": 477
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 163,
+    "output_length": 584
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 163,
+    "output_length": 531
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 4,
+    "score": 0.5,
+    "prompt_length": 172,
+    "output_length": 646
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 167,
+    "output_length": 615
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 151,
+    "output_length": 526
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 143,
+    "output_length": 579
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 159,
+    "output_length": 673
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 158,
+    "output_length": 595
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 269,
+    "output_length": 724
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 277,
+    "output_length": 838
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 293,
+    "output_length": 923
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 284,
+    "output_length": 940
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 4,
+    "score": 0.5,
+    "prompt_length": 298,
+    "output_length": 907
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 289,
+    "output_length": 905
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 297,
+    "output_length": 859
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 289,
+    "output_length": 847
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 1,
+    "case_index": 9,
+    "score": 1.0,
+    "prompt_length": 162,
+    "output_length": 1336
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 285,
+    "output_length": 876
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 3,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 288,
+    "output_length": 1002
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 449,
+    "output_length": 1118
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 449,
+    "output_length": 1096
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 4,
+    "score": 0.5,
+    "prompt_length": 458,
+    "output_length": 1312
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 764,
+    "output_length": 1470
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 2,
+    "score": 1.0,
+    "prompt_length": 776,
+    "output_length": 1466
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 784,
+    "output_length": 1497
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 0,
+    "score": 1.0,
+    "prompt_length": 457,
+    "output_length": 1123
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 780,
+    "output_length": 1517
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 444,
+    "output_length": 1209
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 4,
+    "score": 1.0,
+    "prompt_length": 785,
+    "output_length": 1501
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 772,
+    "output_length": 1500
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 5,
+    "score": 1.0,
+    "prompt_length": 771,
+    "output_length": 1508
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 429,
+    "output_length": 1096
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 7,
+    "score": 1.0,
+    "prompt_length": 445,
+    "output_length": 1122
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 3,
+    "score": 1.0,
+    "prompt_length": 437,
+    "output_length": 1108
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 8,
+    "score": 1.0,
+    "prompt_length": 756,
+    "output_length": 1470
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 1,
+    "score": 1.0,
+    "prompt_length": 453,
+    "output_length": 1327
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 6,
+    "score": 1.0,
+    "prompt_length": 776,
+    "output_length": 1502
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 5,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 448,
+    "output_length": 1312
+  },
+  {
+    "domain": "sql_generation",
+    "quality": "low",
+    "n_shots": 10,
+    "case_index": 9,
+    "score": 0.75,
+    "prompt_length": 775,
+    "output_length": 1754
+  }
+]

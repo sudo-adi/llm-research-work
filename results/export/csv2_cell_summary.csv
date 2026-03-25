@@ -1,0 +1,61 @@
+cell_number,domain,quality,n_shots,n_calls,mean_score,mean_pct,std_dev,min_score,max_score
+1,JSON Extraction,High,1,10,0.5133,51.3%,0.3795,0.0,1.0
+2,JSON Extraction,High,3,10,0.635,63.5%,0.3816,0.0,1.0
+3,JSON Extraction,High,5,10,0.6475,64.8%,0.3529,0.0,1.0
+4,JSON Extraction,High,10,10,0.8775,87.8%,0.1895,0.425,1.0
+5,JSON Extraction,Medium,1,10,0.593,59.3%,0.3412,0.0,1.0
+6,JSON Extraction,Medium,3,10,0.5898,59.0%,0.3266,0.0,1.0
+7,JSON Extraction,Medium,5,10,0.6148,61.5%,0.3067,0.0,1.0
+8,JSON Extraction,Medium,10,10,0.5908,59.1%,0.3181,0.125,1.0
+9,JSON Extraction,Low,1,10,0.014,1.4%,0.0443,0.0,0.14
+10,JSON Extraction,Low,3,10,0.014,1.4%,0.0443,0.0,0.14
+11,JSON Extraction,Low,5,10,0.014,1.4%,0.0443,0.0,0.14
+12,JSON Extraction,Low,10,10,0.0,0.0%,0.0,0.0,0.0
+13,Code Debugging,High,1,10,0.7558,75.6%,0.1929,0.4167,1.0
+14,Code Debugging,High,3,10,0.7529,75.3%,0.1271,0.5,0.9
+15,Code Debugging,High,5,10,0.7404,74.0%,0.1752,0.3929,0.9
+16,Code Debugging,High,10,10,0.7799,78.0%,0.1606,0.3929,0.9375
+17,Code Debugging,Medium,1,10,0.7756,77.6%,0.2317,0.2143,1.0
+18,Code Debugging,Medium,3,10,0.7842,78.4%,0.1751,0.4643,1.0
+19,Code Debugging,Medium,5,10,0.7972,79.7%,0.2338,0.2143,1.0
+20,Code Debugging,Medium,10,10,0.7555,75.5%,0.2331,0.2143,1.0
+21,Code Debugging,Low,1,10,0.6432,64.3%,0.2921,0.0714,1.0
+22,Code Debugging,Low,3,10,0.7479,74.8%,0.1561,0.5,0.9375
+23,Code Debugging,Low,5,10,0.6546,65.5%,0.2888,0.1429,1.0
+24,Code Debugging,Low,10,10,0.6005,60.0%,0.2899,0.1429,0.9286
+25,Math Word Problems,High,1,10,1.0,100.0%,0.0,1.0,1.0
+26,Math Word Problems,High,3,10,1.0,100.0%,0.0,1.0,1.0
+27,Math Word Problems,High,5,10,1.0,100.0%,0.0,1.0,1.0
+28,Math Word Problems,High,10,10,1.0,100.0%,0.0,1.0,1.0
+29,Math Word Problems,Medium,1,10,0.3,30.0%,0.483,0.0,1.0
+30,Math Word Problems,Medium,3,10,0.2,20.0%,0.4216,0.0,1.0
+31,Math Word Problems,Medium,5,10,0.2,20.0%,0.4216,0.0,1.0
+32,Math Word Problems,Medium,10,10,0.1,10.0%,0.3162,0.0,1.0
+33,Math Word Problems,Low,1,10,0.8,80.0%,0.4216,0.0,1.0
+34,Math Word Problems,Low,3,10,0.8,80.0%,0.4216,0.0,1.0
+35,Math Word Problems,Low,5,10,0.8,80.0%,0.4216,0.0,1.0
+36,Math Word Problems,Low,10,10,0.8,80.0%,0.4216,0.0,1.0
+37,Text Summarization,High,1,10,0.9196,92.0%,0.1495,0.5208,1.0
+38,Text Summarization,High,3,10,0.9196,92.0%,0.1495,0.5208,1.0
+39,Text Summarization,High,5,10,0.9196,92.0%,0.1495,0.5208,1.0
+40,Text Summarization,High,10,10,0.9096,91.0%,0.1554,0.5208,1.0
+41,Text Summarization,Medium,1,10,0.8063,80.6%,0.1614,0.4583,1.0
+42,Text Summarization,Medium,3,10,0.7896,79.0%,0.1814,0.4583,1.0
+43,Text Summarization,Medium,5,10,0.7913,79.1%,0.1495,0.4583,1.0
+44,Text Summarization,Medium,10,10,0.7913,79.1%,0.1495,0.4583,1.0
+45,Text Summarization,Low,1,10,0.8504,85.0%,0.1068,0.6042,1.0
+46,Text Summarization,Low,3,10,0.8621,86.2%,0.1941,0.3542,1.0
+47,Text Summarization,Low,5,10,0.8933,89.3%,0.1751,0.4167,1.0
+48,Text Summarization,Low,10,10,0.7742,77.4%,0.1696,0.4167,1.0
+49,SQL Generation,High,1,10,0.975,97.5%,0.0791,0.75,1.0
+50,SQL Generation,High,3,10,0.975,97.5%,0.0791,0.75,1.0
+51,SQL Generation,High,5,10,0.975,97.5%,0.0791,0.75,1.0
+52,SQL Generation,High,10,10,0.975,97.5%,0.0791,0.75,1.0
+53,SQL Generation,Medium,1,10,0.925,92.5%,0.1687,0.5,1.0
+54,SQL Generation,Medium,3,10,0.925,92.5%,0.1687,0.5,1.0
+55,SQL Generation,Medium,5,10,0.925,92.5%,0.1687,0.5,1.0
+56,SQL Generation,Medium,10,10,0.925,92.5%,0.1687,0.5,1.0
+57,SQL Generation,Low,1,10,0.95,95.0%,0.1581,0.5,1.0
+58,SQL Generation,Low,3,10,0.925,92.5%,0.1687,0.5,1.0
+59,SQL Generation,Low,5,10,0.925,92.5%,0.1687,0.5,1.0
+60,SQL Generation,Low,10,10,0.975,97.5%,0.0791,0.75,1.0

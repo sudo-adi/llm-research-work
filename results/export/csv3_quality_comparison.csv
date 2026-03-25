@@ -1,0 +1,16 @@
+domain,quality,mean_score,mean_pct,vs_low_quality_pp,best_shots,best_score_pct
+JSON Extraction,High,0.6683,66.8%,+65.8 pp,10,87.8%
+JSON Extraction,Medium,0.5971,59.7%,+58.7 pp,5,61.5%
+JSON Extraction,Low,0.0105,1.1%,+0.0 pp,1,1.4%
+Code Debugging,High,0.7572,75.7%,+9.6 pp,10,78.0%
+Code Debugging,Medium,0.7781,77.8%,+11.7 pp,5,79.7%
+Code Debugging,Low,0.6615,66.2%,+0.0 pp,3,74.8%
+Math Word Problems,High,1.0,100.0%,+20.0 pp,1,100.0%
+Math Word Problems,Medium,0.2,20.0%,-60.0 pp,1,30.0%
+Math Word Problems,Low,0.8,80.0%,+0.0 pp,1,80.0%
+Text Summarization,High,0.9171,91.7%,+7.2 pp,1,92.0%
+Text Summarization,Medium,0.7946,79.5%,-5.0 pp,1,80.6%
+Text Summarization,Low,0.845,84.5%,+0.0 pp,5,89.3%
+SQL Generation,High,0.975,97.5%,+3.1 pp,1,97.5%
+SQL Generation,Medium,0.925,92.5%,-1.9 pp,1,92.5%
+SQL Generation,Low,0.9437,94.4%,+0.0 pp,10,97.5%

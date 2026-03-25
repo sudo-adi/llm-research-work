@@ -1,0 +1,1057 @@
+call_number,domain,quality,n_shots,case_index,test_input,score,score_pct
+1,JSON Extraction,High,1,0,John Smith is 34 years old and lives in New York. He works as a software engineer.,1.0,100.0%
+2,JSON Extraction,High,1,1,"Maria Garcia, 28, from Chicago. She is a doctor at St. Mary's hospital.",1.0,100.0%
+3,JSON Extraction,High,1,2,"The product SKU is AB-1042, priced at $29.99, available in red and blue.",0.3333,33.3%
+4,JSON Extraction,High,1,3,"Flight AA204 departs at 08:30 from Dallas, arrives at 11:45 in Los Angeles.",0.0,0.0%
+5,JSON Extraction,High,1,4,Order #5523 placed on March 12 for 3 units of Widget X at $15 each.,0.2,20.0%
+6,JSON Extraction,High,1,5,"Dr. Raj Patel, 45, is a cardiologist based in Houston with 20 years of experience.",0.8,80.0%
+7,JSON Extraction,High,1,6,"The laptop model XPS-15 has 16GB RAM, 512GB SSD, and costs $1,299.",0.0,0.0%
+8,JSON Extraction,High,1,7,"Emma Wilson, age 22, studies computer science at MIT. She is from Boston.",0.8,80.0%
+9,JSON Extraction,High,1,8,"Invoice INV-8821 for client TechCorp, total amount $4,500, due April 30.",0.5,50.0%
+10,JSON Extraction,High,1,9,Restaurant La Bella opens at 11am and closes at 10pm. It is located at 45 Main St.,0.5,50.0%
+11,JSON Extraction,High,3,0,John Smith is 34 years old and lives in New York. He works as a software engineer.,1.0,100.0%
+12,JSON Extraction,High,3,1,"Maria Garcia, 28, from Chicago. She is a doctor at St. Mary's hospital.",1.0,100.0%
+13,JSON Extraction,High,3,2,"The product SKU is AB-1042, priced at $29.99, available in red and blue.",1.0,100.0%
+14,JSON Extraction,High,3,3,"Flight AA204 departs at 08:30 from Dallas, arrives at 11:45 in Los Angeles.",0.0,0.0%
+15,JSON Extraction,High,3,4,Order #5523 placed on March 12 for 3 units of Widget X at $15 each.,0.0,0.0%
+16,JSON Extraction,High,3,5,"Dr. Raj Patel, 45, is a cardiologist based in Houston with 20 years of experience.",0.8,80.0%
+17,JSON Extraction,High,3,6,"The laptop model XPS-15 has 16GB RAM, 512GB SSD, and costs $1,299.",0.75,75.0%
+18,JSON Extraction,High,3,7,"Emma Wilson, age 22, studies computer science at MIT. She is from Boston.",0.8,80.0%
+19,JSON Extraction,High,3,8,"Invoice INV-8821 for client TechCorp, total amount $4,500, due April 30.",0.5,50.0%
+20,JSON Extraction,High,3,9,Restaurant La Bella opens at 11am and closes at 10pm. It is located at 45 Main St.,0.5,50.0%
+21,JSON Extraction,High,5,0,John Smith is 34 years old and lives in New York. He works as a software engineer.,1.0,100.0%
+22,JSON Extraction,High,5,1,"Maria Garcia, 28, from Chicago. She is a doctor at St. Mary's hospital.",1.0,100.0%
+23,JSON Extraction,High,5,2,"The product SKU is AB-1042, priced at $29.99, available in red and blue.",1.0,100.0%
+24,JSON Extraction,High,5,3,"Flight AA204 departs at 08:30 from Dallas, arrives at 11:45 in Los Angeles.",0.0,0.0%
+25,JSON Extraction,High,5,4,Order #5523 placed on March 12 for 3 units of Widget X at $15 each.,0.2,20.0%
+26,JSON Extraction,High,5,5,"Dr. Raj Patel, 45, is a cardiologist based in Houston with 20 years of experience.",0.8,80.0%
+27,JSON Extraction,High,5,6,"The laptop model XPS-15 has 16GB RAM, 512GB SSD, and costs $1,299.",0.75,75.0%
+28,JSON Extraction,High,5,7,"Emma Wilson, age 22, studies computer science at MIT. She is from Boston.",0.8,80.0%
+29,JSON Extraction,High,5,8,"Invoice INV-8821 for client TechCorp, total amount $4,500, due April 30.",0.5,50.0%
+30,JSON Extraction,High,5,9,Restaurant La Bella opens at 11am and closes at 10pm. It is located at 45 Main St.,0.425,42.5%
+31,JSON Extraction,High,10,0,John Smith is 34 years old and lives in New York. He works as a software engineer.,1.0,100.0%
+32,JSON Extraction,High,10,1,"Maria Garcia, 28, from Chicago. She is a doctor at St. Mary's hospital.",1.0,100.0%
+33,JSON Extraction,High,10,2,"The product SKU is AB-1042, priced at $29.99, available in red and blue.",1.0,100.0%
+34,JSON Extraction,High,10,3,"Flight AA204 departs at 08:30 from Dallas, arrives at 11:45 in Los Angeles.",1.0,100.0%
+35,JSON Extraction,High,10,4,Order #5523 placed on March 12 for 3 units of Widget X at $15 each.,1.0,100.0%
+36,JSON Extraction,High,10,5,"Dr. Raj Patel, 45, is a cardiologist based in Houston with 20 years of experience.",0.8,80.0%
+37,JSON Extraction,High,10,6,"The laptop model XPS-15 has 16GB RAM, 512GB SSD, and costs $1,299.",0.75,75.0%
+38,JSON Extraction,High,10,7,"Emma Wilson, age 22, studies computer science at MIT. She is from Boston.",0.8,80.0%
+39,JSON Extraction,High,10,8,"Invoice INV-8821 for client TechCorp, total amount $4,500, due April 30.",1.0,100.0%
+40,JSON Extraction,High,10,9,Restaurant La Bella opens at 11am and closes at 10pm. It is located at 45 Main St.,0.425,42.5%
+41,JSON Extraction,Medium,1,0,John Smith is 34 years old and lives in New York. He works as a software engineer.,1.0,100.0%
+42,JSON Extraction,Medium,1,1,"Maria Garcia, 28, from Chicago. She is a doctor at St. Mary's hospital.",0.925,92.5%
+43,JSON Extraction,Medium,1,2,"The product SKU is AB-1042, priced at $29.99, available in red and blue.",1.0,100.0%
+44,JSON Extraction,Medium,1,3,"Flight AA204 departs at 08:30 from Dallas, arrives at 11:45 in Los Angeles.",0.0,0.0%
+45,JSON Extraction,Medium,1,4,Order #5523 placed on March 12 for 3 units of Widget X at $15 each.,0.4,40.0%
+46,JSON Extraction,Medium,1,5,"Dr. Raj Patel, 45, is a cardiologist based in Houston with 20 years of experience.",0.74,74.0%
+47,JSON Extraction,Medium,1,6,"The laptop model XPS-15 has 16GB RAM, 512GB SSD, and costs $1,299.",0.375,37.5%
+48,JSON Extraction,Medium,1,7,"Emma Wilson, age 22, studies computer science at MIT. She is from Boston.",0.74,74.0%
+49,JSON Extraction,Medium,1,8,"Invoice INV-8821 for client TechCorp, total amount $4,500, due April 30.",0.5,50.0%
+50,JSON Extraction,Medium,1,9,Restaurant La Bella opens at 11am and closes at 10pm. It is located at 45 Main St.,0.25,25.0%
+51,JSON Extraction,Medium,3,0,John Smith is 34 years old and lives in New York. He works as a software engineer.,1.0,100.0%
+52,JSON Extraction,Medium,3,1,"Maria Garcia, 28, from Chicago. She is a doctor at St. Mary's hospital.",1.0,100.0%
+53,JSON Extraction,Medium,3,2,"The product SKU is AB-1042, priced at $29.99, available in red and blue.",0.8333,83.3%
+54,JSON Extraction,Medium,3,3,"Flight AA204 departs at 08:30 from Dallas, arrives at 11:45 in Los Angeles.",0.0,0.0%
+55,JSON Extraction,Medium,3,4,Order #5523 placed on March 12 for 3 units of Widget X at $15 each.,0.6,60.0%
+56,JSON Extraction,Medium,3,5,"Dr. Raj Patel, 45, is a cardiologist based in Houston with 20 years of experience.",0.54,54.0%
+57,JSON Extraction,Medium,3,6,"The laptop model XPS-15 has 16GB RAM, 512GB SSD, and costs $1,299.",0.375,37.5%
+58,JSON Extraction,Medium,3,7,"Emma Wilson, age 22, studies computer science at MIT. She is from Boston.",0.8,80.0%
+59,JSON Extraction,Medium,3,8,"Invoice INV-8821 for client TechCorp, total amount $4,500, due April 30.",0.5,50.0%
+60,JSON Extraction,Medium,3,9,Restaurant La Bella opens at 11am and closes at 10pm. It is located at 45 Main St.,0.25,25.0%
+61,JSON Extraction,Medium,5,0,John Smith is 34 years old and lives in New York. He works as a software engineer.,1.0,100.0%
+62,JSON Extraction,Medium,5,1,"Maria Garcia, 28, from Chicago. She is a doctor at St. Mary's hospital.",1.0,100.0%
+63,JSON Extraction,Medium,5,2,"The product SKU is AB-1042, priced at $29.99, available in red and blue.",0.8333,83.3%
+64,JSON Extraction,Medium,5,3,"Flight AA204 departs at 08:30 from Dallas, arrives at 11:45 in Los Angeles.",0.0,0.0%
+65,JSON Extraction,Medium,5,4,Order #5523 placed on March 12 for 3 units of Widget X at $15 each.,0.6,60.0%
+66,JSON Extraction,Medium,5,5,"Dr. Raj Patel, 45, is a cardiologist based in Houston with 20 years of experience.",0.54,54.0%
+67,JSON Extraction,Medium,5,6,"The laptop model XPS-15 has 16GB RAM, 512GB SSD, and costs $1,299.",0.375,37.5%
+68,JSON Extraction,Medium,5,7,"Emma Wilson, age 22, studies computer science at MIT. She is from Boston.",0.8,80.0%
+69,JSON Extraction,Medium,5,8,"Invoice INV-8821 for client TechCorp, total amount $4,500, due April 30.",0.5,50.0%
+70,JSON Extraction,Medium,5,9,Restaurant La Bella opens at 11am and closes at 10pm. It is located at 45 Main St.,0.5,50.0%
+71,JSON Extraction,Medium,10,0,John Smith is 34 years old and lives in New York. He works as a software engineer.,1.0,100.0%
+72,JSON Extraction,Medium,10,1,"Maria Garcia, 28, from Chicago. She is a doctor at St. Mary's hospital.",1.0,100.0%
+73,JSON Extraction,Medium,10,2,"The product SKU is AB-1042, priced at $29.99, available in red and blue.",0.8333,83.3%
+74,JSON Extraction,Medium,10,3,"Flight AA204 departs at 08:30 from Dallas, arrives at 11:45 in Los Angeles.",0.6,60.0%
+75,JSON Extraction,Medium,10,4,Order #5523 placed on March 12 for 3 units of Widget X at $15 each.,0.4,40.0%
+76,JSON Extraction,Medium,10,5,"Dr. Raj Patel, 45, is a cardiologist based in Houston with 20 years of experience.",0.6,60.0%
+77,JSON Extraction,Medium,10,6,"The laptop model XPS-15 has 16GB RAM, 512GB SSD, and costs $1,299.",0.375,37.5%
+78,JSON Extraction,Medium,10,7,"Emma Wilson, age 22, studies computer science at MIT. She is from Boston.",0.8,80.0%
+79,JSON Extraction,Medium,10,8,"Invoice INV-8821 for client TechCorp, total amount $4,500, due April 30.",0.125,12.5%
+80,JSON Extraction,Medium,10,9,Restaurant La Bella opens at 11am and closes at 10pm. It is located at 45 Main St.,0.175,17.5%
+81,JSON Extraction,Low,1,0,John Smith is 34 years old and lives in New York. He works as a software engineer.,0.0,0.0%
+82,JSON Extraction,Low,1,1,"Maria Garcia, 28, from Chicago. She is a doctor at St. Mary's hospital.",0.0,0.0%
+83,JSON Extraction,Low,1,2,"The product SKU is AB-1042, priced at $29.99, available in red and blue.",0.0,0.0%
+84,JSON Extraction,Low,1,3,"Flight AA204 departs at 08:30 from Dallas, arrives at 11:45 in Los Angeles.",0.14,14.0%
+85,JSON Extraction,Low,1,4,Order #5523 placed on March 12 for 3 units of Widget X at $15 each.,0.0,0.0%
+86,JSON Extraction,Low,1,5,"Dr. Raj Patel, 45, is a cardiologist based in Houston with 20 years of experience.",0.0,0.0%
+87,JSON Extraction,Low,1,6,"The laptop model XPS-15 has 16GB RAM, 512GB SSD, and costs $1,299.",0.0,0.0%
+88,JSON Extraction,Low,1,7,"Emma Wilson, age 22, studies computer science at MIT. She is from Boston.",0.0,0.0%
+89,JSON Extraction,Low,1,8,"Invoice INV-8821 for client TechCorp, total amount $4,500, due April 30.",0.0,0.0%
+90,JSON Extraction,Low,1,9,Restaurant La Bella opens at 11am and closes at 10pm. It is located at 45 Main St.,0.0,0.0%
+91,JSON Extraction,Low,3,0,John Smith is 34 years old and lives in New York. He works as a software engineer.,0.0,0.0%
+92,JSON Extraction,Low,3,1,"Maria Garcia, 28, from Chicago. She is a doctor at St. Mary's hospital.",0.0,0.0%
+93,JSON Extraction,Low,3,2,"The product SKU is AB-1042, priced at $29.99, available in red and blue.",0.0,0.0%
+94,JSON Extraction,Low,3,3,"Flight AA204 departs at 08:30 from Dallas, arrives at 11:45 in Los Angeles.",0.14,14.0%
+95,JSON Extraction,Low,3,4,Order #5523 placed on March 12 for 3 units of Widget X at $15 each.,0.0,0.0%
+96,JSON Extraction,Low,3,5,"Dr. Raj Patel, 45, is a cardiologist based in Houston with 20 years of experience.",0.0,0.0%
+97,JSON Extraction,Low,3,6,"The laptop model XPS-15 has 16GB RAM, 512GB SSD, and costs $1,299.",0.0,0.0%
+98,JSON Extraction,Low,3,7,"Emma Wilson, age 22, studies computer science at MIT. She is from Boston.",0.0,0.0%
+99,JSON Extraction,Low,3,8,"Invoice INV-8821 for client TechCorp, total amount $4,500, due April 30.",0.0,0.0%
+100,JSON Extraction,Low,3,9,Restaurant La Bella opens at 11am and closes at 10pm. It is located at 45 Main St.,0.0,0.0%
+101,JSON Extraction,Low,5,0,John Smith is 34 years old and lives in New York. He works as a software engineer.,0.0,0.0%
+102,JSON Extraction,Low,5,1,"Maria Garcia, 28, from Chicago. She is a doctor at St. Mary's hospital.",0.0,0.0%
+103,JSON Extraction,Low,5,2,"The product SKU is AB-1042, priced at $29.99, available in red and blue.",0.0,0.0%
+104,JSON Extraction,Low,5,3,"Flight AA204 departs at 08:30 from Dallas, arrives at 11:45 in Los Angeles.",0.14,14.0%
+105,JSON Extraction,Low,5,4,Order #5523 placed on March 12 for 3 units of Widget X at $15 each.,0.0,0.0%
+106,JSON Extraction,Low,5,5,"Dr. Raj Patel, 45, is a cardiologist based in Houston with 20 years of experience.",0.0,0.0%
+107,JSON Extraction,Low,5,6,"The laptop model XPS-15 has 16GB RAM, 512GB SSD, and costs $1,299.",0.0,0.0%
+108,JSON Extraction,Low,5,7,"Emma Wilson, age 22, studies computer science at MIT. She is from Boston.",0.0,0.0%
+109,JSON Extraction,Low,5,8,"Invoice INV-8821 for client TechCorp, total amount $4,500, due April 30.",0.0,0.0%
+110,JSON Extraction,Low,5,9,Restaurant La Bella opens at 11am and closes at 10pm. It is located at 45 Main St.,0.0,0.0%
+111,JSON Extraction,Low,10,0,John Smith is 34 years old and lives in New York. He works as a software engineer.,0.0,0.0%
+112,JSON Extraction,Low,10,1,"Maria Garcia, 28, from Chicago. She is a doctor at St. Mary's hospital.",0.0,0.0%
+113,JSON Extraction,Low,10,2,"The product SKU is AB-1042, priced at $29.99, available in red and blue.",0.0,0.0%
+114,JSON Extraction,Low,10,3,"Flight AA204 departs at 08:30 from Dallas, arrives at 11:45 in Los Angeles.",0.0,0.0%
+115,JSON Extraction,Low,10,4,Order #5523 placed on March 12 for 3 units of Widget X at $15 each.,0.0,0.0%
+116,JSON Extraction,Low,10,5,"Dr. Raj Patel, 45, is a cardiologist based in Houston with 20 years of experience.",0.0,0.0%
+117,JSON Extraction,Low,10,6,"The laptop model XPS-15 has 16GB RAM, 512GB SSD, and costs $1,299.",0.0,0.0%
+118,JSON Extraction,Low,10,7,"Emma Wilson, age 22, studies computer science at MIT. She is from Boston.",0.0,0.0%
+119,JSON Extraction,Low,10,8,"Invoice INV-8821 for client TechCorp, total amount $4,500, due April 30.",0.0,0.0%
+120,JSON Extraction,Low,10,9,Restaurant La Bella opens at 11am and closes at 10pm. It is located at 45 Main St.,0.0,0.0%
+121,Code Debugging,High,1,0,"def sum_list(numbers):
+    total = 0
+    for i in range(len(numbers) + 1):
+        total += numbers[i]
+    return total",0.7857,78.6%
+122,Code Debugging,High,1,1,"def is_palindrome(s):
+    return s == s.reverse()",0.9,90.0%
+123,Code Debugging,High,1,2,"def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n)",0.875,87.5%
+124,Code Debugging,High,1,3,"def divide(a, b):
+    return a / b",1.0,100.0%
+125,Code Debugging,High,1,4,"def find_max(lst):
+    max_val = 0
+    for num in lst:
+        if num > max_val:
+            max_val = num
+    return max_val",0.4167,41.7%
+126,Code Debugging,High,1,5,"def count_vowels(s):
+    count = 0
+    for char in s:
+        if char in 'aeiou':
+            count += 1
+    return count",0.875,87.5%
+127,Code Debugging,High,1,6,"def binary_search(arr, target):
+    left, right = 0, len(arr)
+    while left <= right:
+        mid = (left + right) // 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return -1",0.875,87.5%
+128,Code Debugging,High,1,7,"def remove_duplicates(lst):
+    seen = []
+    for item in lst:
+        if item not in seen:
+            seen.append(item)
+    return seen",0.7,70.0%
+129,Code Debugging,High,1,8,"def celsius_to_fahrenheit(c):
+    return c * 9 / 5 + 32",0.4643,46.4%
+130,Code Debugging,High,1,9,"def merge_dicts(d1, d2):
+    for key, value in d2:
+        d1[key] = value
+    return d1",0.6667,66.7%
+131,Code Debugging,High,3,0,"def sum_list(numbers):
+    total = 0
+    for i in range(len(numbers) + 1):
+        total += numbers[i]
+    return total",0.7857,78.6%
+132,Code Debugging,High,3,1,"def is_palindrome(s):
+    return s == s.reverse()",0.9,90.0%
+133,Code Debugging,High,3,2,"def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n)",0.875,87.5%
+134,Code Debugging,High,3,3,"def divide(a, b):
+    return a / b",0.8333,83.3%
+135,Code Debugging,High,3,4,"def find_max(lst):
+    max_val = 0
+    for num in lst:
+        if num > max_val:
+            max_val = num
+    return max_val",0.5,50.0%
+136,Code Debugging,High,3,5,"def count_vowels(s):
+    count = 0
+    for char in s:
+        if char in 'aeiou':
+            count += 1
+    return count",0.75,75.0%
+137,Code Debugging,High,3,6,"def binary_search(arr, target):
+    left, right = 0, len(arr)
+    while left <= right:
+        mid = (left + right) // 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return -1",0.875,87.5%
+138,Code Debugging,High,3,7,"def remove_duplicates(lst):
+    seen = []
+    for item in lst:
+        if item not in seen:
+            seen.append(item)
+    return seen",0.7,70.0%
+139,Code Debugging,High,3,8,"def celsius_to_fahrenheit(c):
+    return c * 9 / 5 + 32",0.6429,64.3%
+140,Code Debugging,High,3,9,"def merge_dicts(d1, d2):
+    for key, value in d2:
+        d1[key] = value
+    return d1",0.6667,66.7%
+141,Code Debugging,High,5,0,"def sum_list(numbers):
+    total = 0
+    for i in range(len(numbers) + 1):
+        total += numbers[i]
+    return total",0.7857,78.6%
+142,Code Debugging,High,5,1,"def is_palindrome(s):
+    return s == s.reverse()",0.9,90.0%
+143,Code Debugging,High,5,2,"def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n)",0.875,87.5%
+144,Code Debugging,High,5,3,"def divide(a, b):
+    return a / b",0.8333,83.3%
+145,Code Debugging,High,5,4,"def find_max(lst):
+    max_val = 0
+    for num in lst:
+        if num > max_val:
+            max_val = num
+    return max_val",0.5,50.0%
+146,Code Debugging,High,5,5,"def count_vowels(s):
+    count = 0
+    for char in s:
+        if char in 'aeiou':
+            count += 1
+    return count",0.875,87.5%
+147,Code Debugging,High,5,6,"def binary_search(arr, target):
+    left, right = 0, len(arr)
+    while left <= right:
+        mid = (left + right) // 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return -1",0.875,87.5%
+148,Code Debugging,High,5,7,"def remove_duplicates(lst):
+    seen = []
+    for item in lst:
+        if item not in seen:
+            seen.append(item)
+    return seen",0.7,70.0%
+149,Code Debugging,High,5,8,"def celsius_to_fahrenheit(c):
+    return c * 9 / 5 + 32",0.3929,39.3%
+150,Code Debugging,High,5,9,"def merge_dicts(d1, d2):
+    for key, value in d2:
+        d1[key] = value
+    return d1",0.6667,66.7%
+151,Code Debugging,High,10,0,"def sum_list(numbers):
+    total = 0
+    for i in range(len(numbers) + 1):
+        total += numbers[i]
+    return total",0.7857,78.6%
+152,Code Debugging,High,10,1,"def is_palindrome(s):
+    return s == s.reverse()",0.9,90.0%
+153,Code Debugging,High,10,2,"def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n)",0.875,87.5%
+154,Code Debugging,High,10,3,"def divide(a, b):
+    return a / b",0.8333,83.3%
+155,Code Debugging,High,10,4,"def find_max(lst):
+    max_val = 0
+    for num in lst:
+        if num > max_val:
+            max_val = num
+    return max_val",0.8333,83.3%
+156,Code Debugging,High,10,5,"def count_vowels(s):
+    count = 0
+    for char in s:
+        if char in 'aeiou':
+            count += 1
+    return count",0.875,87.5%
+157,Code Debugging,High,10,6,"def binary_search(arr, target):
+    left, right = 0, len(arr)
+    while left <= right:
+        mid = (left + right) // 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return -1",0.9375,93.8%
+158,Code Debugging,High,10,7,"def remove_duplicates(lst):
+    seen = []
+    for item in lst:
+        if item not in seen:
+            seen.append(item)
+    return seen",0.7,70.0%
+159,Code Debugging,High,10,8,"def celsius_to_fahrenheit(c):
+    return c * 9 / 5 + 32",0.3929,39.3%
+160,Code Debugging,High,10,9,"def merge_dicts(d1, d2):
+    for key, value in d2:
+        d1[key] = value
+    return d1",0.6667,66.7%
+161,Code Debugging,Medium,1,0,"def sum_list(numbers):
+    total = 0
+    for i in range(len(numbers) + 1):
+        total += numbers[i]
+    return total",1.0,100.0%
+162,Code Debugging,Medium,1,1,"def is_palindrome(s):
+    return s == s.reverse()",0.9,90.0%
+163,Code Debugging,Medium,1,2,"def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n)",0.875,87.5%
+164,Code Debugging,Medium,1,3,"def divide(a, b):
+    return a / b",0.8,80.0%
+165,Code Debugging,Medium,1,4,"def find_max(lst):
+    max_val = 0
+    for num in lst:
+        if num > max_val:
+            max_val = num
+    return max_val",0.5833,58.3%
+166,Code Debugging,Medium,1,5,"def count_vowels(s):
+    count = 0
+    for char in s:
+        if char in 'aeiou':
+            count += 1
+    return count",0.75,75.0%
+167,Code Debugging,Medium,1,6,"def binary_search(arr, target):
+    left, right = 0, len(arr)
+    while left <= right:
+        mid = (left + right) // 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return -1",1.0,100.0%
+168,Code Debugging,Medium,1,7,"def remove_duplicates(lst):
+    seen = []
+    for item in lst:
+        if item not in seen:
+            seen.append(item)
+    return seen",0.8,80.0%
+169,Code Debugging,Medium,1,8,"def celsius_to_fahrenheit(c):
+    return c * 9 / 5 + 32",0.2143,21.4%
+170,Code Debugging,Medium,1,9,"def merge_dicts(d1, d2):
+    for key, value in d2:
+        d1[key] = value
+    return d1",0.8333,83.3%
+171,Code Debugging,Medium,3,0,"def sum_list(numbers):
+    total = 0
+    for i in range(len(numbers) + 1):
+        total += numbers[i]
+    return total",0.8571,85.7%
+172,Code Debugging,Medium,3,1,"def is_palindrome(s):
+    return s == s.reverse()",0.9,90.0%
+173,Code Debugging,Medium,3,2,"def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n)",1.0,100.0%
+174,Code Debugging,Medium,3,3,"def divide(a, b):
+    return a / b",0.8,80.0%
+175,Code Debugging,Medium,3,4,"def find_max(lst):
+    max_val = 0
+    for num in lst:
+        if num > max_val:
+            max_val = num
+    return max_val",0.5,50.0%
+176,Code Debugging,Medium,3,5,"def count_vowels(s):
+    count = 0
+    for char in s:
+        if char in 'aeiou':
+            count += 1
+    return count",0.75,75.0%
+177,Code Debugging,Medium,3,6,"def binary_search(arr, target):
+    left, right = 0, len(arr)
+    while left <= right:
+        mid = (left + right) // 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return -1",0.9375,93.8%
+178,Code Debugging,Medium,3,7,"def remove_duplicates(lst):
+    seen = []
+    for item in lst:
+        if item not in seen:
+            seen.append(item)
+    return seen",0.8,80.0%
+179,Code Debugging,Medium,3,8,"def celsius_to_fahrenheit(c):
+    return c * 9 / 5 + 32",0.4643,46.4%
+180,Code Debugging,Medium,3,9,"def merge_dicts(d1, d2):
+    for key, value in d2:
+        d1[key] = value
+    return d1",0.8333,83.3%
+181,Code Debugging,Medium,5,0,"def sum_list(numbers):
+    total = 0
+    for i in range(len(numbers) + 1):
+        total += numbers[i]
+    return total",0.9286,92.9%
+182,Code Debugging,Medium,5,1,"def is_palindrome(s):
+    return s == s.reverse()",0.9,90.0%
+183,Code Debugging,Medium,5,2,"def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n)",1.0,100.0%
+184,Code Debugging,Medium,5,3,"def divide(a, b):
+    return a / b",0.8,80.0%
+185,Code Debugging,Medium,5,4,"def find_max(lst):
+    max_val = 0
+    for num in lst:
+        if num > max_val:
+            max_val = num
+    return max_val",0.5833,58.3%
+186,Code Debugging,Medium,5,5,"def count_vowels(s):
+    count = 0
+    for char in s:
+        if char in 'aeiou':
+            count += 1
+    return count",0.875,87.5%
+187,Code Debugging,Medium,5,6,"def binary_search(arr, target):
+    left, right = 0, len(arr)
+    while left <= right:
+        mid = (left + right) // 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return -1",0.9375,93.8%
+188,Code Debugging,Medium,5,7,"def remove_duplicates(lst):
+    seen = []
+    for item in lst:
+        if item not in seen:
+            seen.append(item)
+    return seen",0.9,90.0%
+189,Code Debugging,Medium,5,8,"def celsius_to_fahrenheit(c):
+    return c * 9 / 5 + 32",0.2143,21.4%
+190,Code Debugging,Medium,5,9,"def merge_dicts(d1, d2):
+    for key, value in d2:
+        d1[key] = value
+    return d1",0.8333,83.3%
+191,Code Debugging,Medium,10,0,"def sum_list(numbers):
+    total = 0
+    for i in range(len(numbers) + 1):
+        total += numbers[i]
+    return total",0.8571,85.7%
+192,Code Debugging,Medium,10,1,"def is_palindrome(s):
+    return s == s.reverse()",0.9,90.0%
+193,Code Debugging,Medium,10,2,"def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n)",1.0,100.0%
+194,Code Debugging,Medium,10,3,"def divide(a, b):
+    return a / b",0.8,80.0%
+195,Code Debugging,Medium,10,4,"def find_max(lst):
+    max_val = 0
+    for num in lst:
+        if num > max_val:
+            max_val = num
+    return max_val",0.5,50.0%
+196,Code Debugging,Medium,10,5,"def count_vowels(s):
+    count = 0
+    for char in s:
+        if char in 'aeiou':
+            count += 1
+    return count",0.875,87.5%
+197,Code Debugging,Medium,10,6,"def binary_search(arr, target):
+    left, right = 0, len(arr)
+    while left <= right:
+        mid = (left + right) // 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return -1",0.875,87.5%
+198,Code Debugging,Medium,10,7,"def remove_duplicates(lst):
+    seen = []
+    for item in lst:
+        if item not in seen:
+            seen.append(item)
+    return seen",0.7,70.0%
+199,Code Debugging,Medium,10,8,"def celsius_to_fahrenheit(c):
+    return c * 9 / 5 + 32",0.2143,21.4%
+200,Code Debugging,Medium,10,9,"def merge_dicts(d1, d2):
+    for key, value in d2:
+        d1[key] = value
+    return d1",0.8333,83.3%
+201,Code Debugging,Low,1,0,"def sum_list(numbers):
+    total = 0
+    for i in range(len(numbers) + 1):
+        total += numbers[i]
+    return total",0.7857,78.6%
+202,Code Debugging,Low,1,1,"def is_palindrome(s):
+    return s == s.reverse()",0.8,80.0%
+203,Code Debugging,Low,1,2,"def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n)",1.0,100.0%
+204,Code Debugging,Low,1,3,"def divide(a, b):
+    return a / b",0.2,20.0%
+205,Code Debugging,Low,1,4,"def find_max(lst):
+    max_val = 0
+    for num in lst:
+        if num > max_val:
+            max_val = num
+    return max_val",0.5833,58.3%
+206,Code Debugging,Low,1,5,"def count_vowels(s):
+    count = 0
+    for char in s:
+        if char in 'aeiou':
+            count += 1
+    return count",0.75,75.0%
+207,Code Debugging,Low,1,6,"def binary_search(arr, target):
+    left, right = 0, len(arr)
+    while left <= right:
+        mid = (left + right) // 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return -1",0.875,87.5%
+208,Code Debugging,Low,1,7,"def remove_duplicates(lst):
+    seen = []
+    for item in lst:
+        if item not in seen:
+            seen.append(item)
+    return seen",0.7,70.0%
+209,Code Debugging,Low,1,8,"def celsius_to_fahrenheit(c):
+    return c * 9 / 5 + 32",0.0714,7.1%
+210,Code Debugging,Low,1,9,"def merge_dicts(d1, d2):
+    for key, value in d2:
+        d1[key] = value
+    return d1",0.6667,66.7%
+211,Code Debugging,Low,3,0,"def sum_list(numbers):
+    total = 0
+    for i in range(len(numbers) + 1):
+        total += numbers[i]
+    return total",0.8571,85.7%
+212,Code Debugging,Low,3,1,"def is_palindrome(s):
+    return s == s.reverse()",0.9,90.0%
+213,Code Debugging,Low,3,2,"def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n)",0.75,75.0%
+214,Code Debugging,Low,3,3,"def divide(a, b):
+    return a / b",0.6333,63.3%
+215,Code Debugging,Low,3,4,"def find_max(lst):
+    max_val = 0
+    for num in lst:
+        if num > max_val:
+            max_val = num
+    return max_val",0.5,50.0%
+216,Code Debugging,Low,3,5,"def count_vowels(s):
+    count = 0
+    for char in s:
+        if char in 'aeiou':
+            count += 1
+    return count",0.875,87.5%
+217,Code Debugging,Low,3,6,"def binary_search(arr, target):
+    left, right = 0, len(arr)
+    while left <= right:
+        mid = (left + right) // 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return -1",0.9375,93.8%
+218,Code Debugging,Low,3,7,"def remove_duplicates(lst):
+    seen = []
+    for item in lst:
+        if item not in seen:
+            seen.append(item)
+    return seen",0.55,55.0%
+219,Code Debugging,Low,3,8,"def celsius_to_fahrenheit(c):
+    return c * 9 / 5 + 32",0.6429,64.3%
+220,Code Debugging,Low,3,9,"def merge_dicts(d1, d2):
+    for key, value in d2:
+        d1[key] = value
+    return d1",0.8333,83.3%
+221,Code Debugging,Low,5,0,"def sum_list(numbers):
+    total = 0
+    for i in range(len(numbers) + 1):
+        total += numbers[i]
+    return total",0.8571,85.7%
+222,Code Debugging,Low,5,1,"def is_palindrome(s):
+    return s == s.reverse()",0.9,90.0%
+223,Code Debugging,Low,5,2,"def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n)",1.0,100.0%
+224,Code Debugging,Low,5,3,"def divide(a, b):
+    return a / b",0.3667,36.7%
+225,Code Debugging,Low,5,4,"def find_max(lst):
+    max_val = 0
+    for num in lst:
+        if num > max_val:
+            max_val = num
+    return max_val",0.5,50.0%
+226,Code Debugging,Low,5,5,"def count_vowels(s):
+    count = 0
+    for char in s:
+        if char in 'aeiou':
+            count += 1
+    return count",0.4583,45.8%
+227,Code Debugging,Low,5,6,"def binary_search(arr, target):
+    left, right = 0, len(arr)
+    while left <= right:
+        mid = (left + right) // 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return -1",0.9375,93.8%
+228,Code Debugging,Low,5,7,"def remove_duplicates(lst):
+    seen = []
+    for item in lst:
+        if item not in seen:
+            seen.append(item)
+    return seen",0.55,55.0%
+229,Code Debugging,Low,5,8,"def celsius_to_fahrenheit(c):
+    return c * 9 / 5 + 32",0.1429,14.3%
+230,Code Debugging,Low,5,9,"def merge_dicts(d1, d2):
+    for key, value in d2:
+        d1[key] = value
+    return d1",0.8333,83.3%
+231,Code Debugging,Low,10,0,"def sum_list(numbers):
+    total = 0
+    for i in range(len(numbers) + 1):
+        total += numbers[i]
+    return total",0.9286,92.9%
+232,Code Debugging,Low,10,1,"def is_palindrome(s):
+    return s == s.reverse()",0.8,80.0%
+233,Code Debugging,Low,10,2,"def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n)",0.75,75.0%
+234,Code Debugging,Low,10,3,"def divide(a, b):
+    return a / b",0.2,20.0%
+235,Code Debugging,Low,10,4,"def find_max(lst):
+    max_val = 0
+    for num in lst:
+        if num > max_val:
+            max_val = num
+    return max_val",0.8333,83.3%
+236,Code Debugging,Low,10,5,"def count_vowels(s):
+    count = 0
+    for char in s:
+        if char in 'aeiou':
+            count += 1
+    return count",0.4583,45.8%
+237,Code Debugging,Low,10,6,"def binary_search(arr, target):
+    left, right = 0, len(arr)
+    while left <= right:
+        mid = (left + right) // 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return -1",0.875,87.5%
+238,Code Debugging,Low,10,7,"def remove_duplicates(lst):
+    seen = []
+    for item in lst:
+        if item not in seen:
+            seen.append(item)
+    return seen",0.35,35.0%
+239,Code Debugging,Low,10,8,"def celsius_to_fahrenheit(c):
+    return c * 9 / 5 + 32",0.1429,14.3%
+240,Code Debugging,Low,10,9,"def merge_dicts(d1, d2):
+    for key, value in d2:
+        d1[key] = value
+    return d1",0.6667,66.7%
+241,Math Word Problems,High,1,0,A shop sells apples for $2 each and oranges for $3 each. Tom buys 4 apples and 3 oranges. How much does Tom spend?,1.0,100.0%
+242,Math Word Problems,High,1,1,A train travels 60 km/h for 2 hours then 80 km/h for 3 hours. What is the total distance?,1.0,100.0%
+243,Math Word Problems,High,1,2,A class has 30 students. 40% are girls. How many boys are in the class?,1.0,100.0%
+244,Math Word Problems,High,1,3,A rectangle has length 12 cm and width 5 cm. What is its perimeter?,1.0,100.0%
+245,Math Word Problems,High,1,4,"If 5 workers finish a job in 8 days, how many days will 10 workers take for the same job?",1.0,100.0%
+246,Math Word Problems,High,1,5,A shirt costs $40. A 25% discount is applied. What is the final price?,1.0,100.0%
+247,Math Word Problems,High,1,6,A tank holds 500 liters. It leaks 5 liters per hour. After 20 hours how many liters remain?,1.0,100.0%
+248,Math Word Problems,High,1,7,Sarah saves $15 every week. How much will she save in 52 weeks?,1.0,100.0%
+249,Math Word Problems,High,1,8,A pizza is cut into 8 equal slices. 3 people each eat 2 slices. How many slices are left?,1.0,100.0%
+250,Math Word Problems,High,1,9,A car uses 6 liters of fuel per 100 km. How much fuel is needed for a 350 km trip?,1.0,100.0%
+251,Math Word Problems,High,3,0,A shop sells apples for $2 each and oranges for $3 each. Tom buys 4 apples and 3 oranges. How much does Tom spend?,1.0,100.0%
+252,Math Word Problems,High,3,1,A train travels 60 km/h for 2 hours then 80 km/h for 3 hours. What is the total distance?,1.0,100.0%
+253,Math Word Problems,High,3,2,A class has 30 students. 40% are girls. How many boys are in the class?,1.0,100.0%
+254,Math Word Problems,High,3,3,A rectangle has length 12 cm and width 5 cm. What is its perimeter?,1.0,100.0%
+255,Math Word Problems,High,3,4,"If 5 workers finish a job in 8 days, how many days will 10 workers take for the same job?",1.0,100.0%
+256,Math Word Problems,High,3,5,A shirt costs $40. A 25% discount is applied. What is the final price?,1.0,100.0%
+257,Math Word Problems,High,3,6,A tank holds 500 liters. It leaks 5 liters per hour. After 20 hours how many liters remain?,1.0,100.0%
+258,Math Word Problems,High,3,7,Sarah saves $15 every week. How much will she save in 52 weeks?,1.0,100.0%
+259,Math Word Problems,High,3,8,A pizza is cut into 8 equal slices. 3 people each eat 2 slices. How many slices are left?,1.0,100.0%
+260,Math Word Problems,High,3,9,A car uses 6 liters of fuel per 100 km. How much fuel is needed for a 350 km trip?,1.0,100.0%
+261,Math Word Problems,High,5,0,A shop sells apples for $2 each and oranges for $3 each. Tom buys 4 apples and 3 oranges. How much does Tom spend?,1.0,100.0%
+262,Math Word Problems,High,5,1,A train travels 60 km/h for 2 hours then 80 km/h for 3 hours. What is the total distance?,1.0,100.0%
+263,Math Word Problems,High,5,2,A class has 30 students. 40% are girls. How many boys are in the class?,1.0,100.0%
+264,Math Word Problems,High,5,3,A rectangle has length 12 cm and width 5 cm. What is its perimeter?,1.0,100.0%
+265,Math Word Problems,High,5,4,"If 5 workers finish a job in 8 days, how many days will 10 workers take for the same job?",1.0,100.0%
+266,Math Word Problems,High,5,5,A shirt costs $40. A 25% discount is applied. What is the final price?,1.0,100.0%
+267,Math Word Problems,High,5,6,A tank holds 500 liters. It leaks 5 liters per hour. After 20 hours how many liters remain?,1.0,100.0%
+268,Math Word Problems,High,5,7,Sarah saves $15 every week. How much will she save in 52 weeks?,1.0,100.0%
+269,Math Word Problems,High,5,8,A pizza is cut into 8 equal slices. 3 people each eat 2 slices. How many slices are left?,1.0,100.0%
+270,Math Word Problems,High,5,9,A car uses 6 liters of fuel per 100 km. How much fuel is needed for a 350 km trip?,1.0,100.0%
+271,Math Word Problems,High,10,0,A shop sells apples for $2 each and oranges for $3 each. Tom buys 4 apples and 3 oranges. How much does Tom spend?,1.0,100.0%
+272,Math Word Problems,High,10,1,A train travels 60 km/h for 2 hours then 80 km/h for 3 hours. What is the total distance?,1.0,100.0%
+273,Math Word Problems,High,10,2,A class has 30 students. 40% are girls. How many boys are in the class?,1.0,100.0%
+274,Math Word Problems,High,10,3,A rectangle has length 12 cm and width 5 cm. What is its perimeter?,1.0,100.0%
+275,Math Word Problems,High,10,4,"If 5 workers finish a job in 8 days, how many days will 10 workers take for the same job?",1.0,100.0%
+276,Math Word Problems,High,10,5,A shirt costs $40. A 25% discount is applied. What is the final price?,1.0,100.0%
+277,Math Word Problems,High,10,6,A tank holds 500 liters. It leaks 5 liters per hour. After 20 hours how many liters remain?,1.0,100.0%
+278,Math Word Problems,High,10,7,Sarah saves $15 every week. How much will she save in 52 weeks?,1.0,100.0%
+279,Math Word Problems,High,10,8,A pizza is cut into 8 equal slices. 3 people each eat 2 slices. How many slices are left?,1.0,100.0%
+280,Math Word Problems,High,10,9,A car uses 6 liters of fuel per 100 km. How much fuel is needed for a 350 km trip?,1.0,100.0%
+281,Math Word Problems,Medium,1,0,A shop sells apples for $2 each and oranges for $3 each. Tom buys 4 apples and 3 oranges. How much does Tom spend?,0.0,0.0%
+282,Math Word Problems,Medium,1,1,A train travels 60 km/h for 2 hours then 80 km/h for 3 hours. What is the total distance?,0.0,0.0%
+283,Math Word Problems,Medium,1,2,A class has 30 students. 40% are girls. How many boys are in the class?,1.0,100.0%
+284,Math Word Problems,Medium,1,3,A rectangle has length 12 cm and width 5 cm. What is its perimeter?,1.0,100.0%
+285,Math Word Problems,Medium,1,4,"If 5 workers finish a job in 8 days, how many days will 10 workers take for the same job?",0.0,0.0%
+286,Math Word Problems,Medium,1,5,A shirt costs $40. A 25% discount is applied. What is the final price?,0.0,0.0%
+287,Math Word Problems,Medium,1,6,A tank holds 500 liters. It leaks 5 liters per hour. After 20 hours how many liters remain?,0.0,0.0%
+288,Math Word Problems,Medium,1,7,Sarah saves $15 every week. How much will she save in 52 weeks?,0.0,0.0%
+289,Math Word Problems,Medium,1,8,A pizza is cut into 8 equal slices. 3 people each eat 2 slices. How many slices are left?,0.0,0.0%
+290,Math Word Problems,Medium,1,9,A car uses 6 liters of fuel per 100 km. How much fuel is needed for a 350 km trip?,1.0,100.0%
+291,Math Word Problems,Medium,3,0,A shop sells apples for $2 each and oranges for $3 each. Tom buys 4 apples and 3 oranges. How much does Tom spend?,0.0,0.0%
+292,Math Word Problems,Medium,3,1,A train travels 60 km/h for 2 hours then 80 km/h for 3 hours. What is the total distance?,0.0,0.0%
+293,Math Word Problems,Medium,3,2,A class has 30 students. 40% are girls. How many boys are in the class?,0.0,0.0%
+294,Math Word Problems,Medium,3,3,A rectangle has length 12 cm and width 5 cm. What is its perimeter?,0.0,0.0%
+295,Math Word Problems,Medium,3,4,"If 5 workers finish a job in 8 days, how many days will 10 workers take for the same job?",0.0,0.0%
+296,Math Word Problems,Medium,3,5,A shirt costs $40. A 25% discount is applied. What is the final price?,1.0,100.0%
+297,Math Word Problems,Medium,3,6,A tank holds 500 liters. It leaks 5 liters per hour. After 20 hours how many liters remain?,0.0,0.0%
+298,Math Word Problems,Medium,3,7,Sarah saves $15 every week. How much will she save in 52 weeks?,0.0,0.0%
+299,Math Word Problems,Medium,3,8,A pizza is cut into 8 equal slices. 3 people each eat 2 slices. How many slices are left?,0.0,0.0%
+300,Math Word Problems,Medium,3,9,A car uses 6 liters of fuel per 100 km. How much fuel is needed for a 350 km trip?,1.0,100.0%
+301,Math Word Problems,Medium,5,0,A shop sells apples for $2 each and oranges for $3 each. Tom buys 4 apples and 3 oranges. How much does Tom spend?,0.0,0.0%
+302,Math Word Problems,Medium,5,1,A train travels 60 km/h for 2 hours then 80 km/h for 3 hours. What is the total distance?,0.0,0.0%
+303,Math Word Problems,Medium,5,2,A class has 30 students. 40% are girls. How many boys are in the class?,0.0,0.0%
+304,Math Word Problems,Medium,5,3,A rectangle has length 12 cm and width 5 cm. What is its perimeter?,0.0,0.0%
+305,Math Word Problems,Medium,5,4,"If 5 workers finish a job in 8 days, how many days will 10 workers take for the same job?",0.0,0.0%
+306,Math Word Problems,Medium,5,5,A shirt costs $40. A 25% discount is applied. What is the final price?,1.0,100.0%
+307,Math Word Problems,Medium,5,6,A tank holds 500 liters. It leaks 5 liters per hour. After 20 hours how many liters remain?,0.0,0.0%
+308,Math Word Problems,Medium,5,7,Sarah saves $15 every week. How much will she save in 52 weeks?,0.0,0.0%
+309,Math Word Problems,Medium,5,8,A pizza is cut into 8 equal slices. 3 people each eat 2 slices. How many slices are left?,0.0,0.0%
+310,Math Word Problems,Medium,5,9,A car uses 6 liters of fuel per 100 km. How much fuel is needed for a 350 km trip?,1.0,100.0%
+311,Math Word Problems,Medium,10,0,A shop sells apples for $2 each and oranges for $3 each. Tom buys 4 apples and 3 oranges. How much does Tom spend?,0.0,0.0%
+312,Math Word Problems,Medium,10,1,A train travels 60 km/h for 2 hours then 80 km/h for 3 hours. What is the total distance?,0.0,0.0%
+313,Math Word Problems,Medium,10,2,A class has 30 students. 40% are girls. How many boys are in the class?,0.0,0.0%
+314,Math Word Problems,Medium,10,3,A rectangle has length 12 cm and width 5 cm. What is its perimeter?,0.0,0.0%
+315,Math Word Problems,Medium,10,4,"If 5 workers finish a job in 8 days, how many days will 10 workers take for the same job?",0.0,0.0%
+316,Math Word Problems,Medium,10,5,A shirt costs $40. A 25% discount is applied. What is the final price?,0.0,0.0%
+317,Math Word Problems,Medium,10,6,A tank holds 500 liters. It leaks 5 liters per hour. After 20 hours how many liters remain?,0.0,0.0%
+318,Math Word Problems,Medium,10,7,Sarah saves $15 every week. How much will she save in 52 weeks?,0.0,0.0%
+319,Math Word Problems,Medium,10,8,A pizza is cut into 8 equal slices. 3 people each eat 2 slices. How many slices are left?,0.0,0.0%
+320,Math Word Problems,Medium,10,9,A car uses 6 liters of fuel per 100 km. How much fuel is needed for a 350 km trip?,1.0,100.0%
+321,Math Word Problems,Low,1,0,A shop sells apples for $2 each and oranges for $3 each. Tom buys 4 apples and 3 oranges. How much does Tom spend?,1.0,100.0%
+322,Math Word Problems,Low,1,1,A train travels 60 km/h for 2 hours then 80 km/h for 3 hours. What is the total distance?,1.0,100.0%
+323,Math Word Problems,Low,1,2,A class has 30 students. 40% are girls. How many boys are in the class?,1.0,100.0%
+324,Math Word Problems,Low,1,3,A rectangle has length 12 cm and width 5 cm. What is its perimeter?,1.0,100.0%
+325,Math Word Problems,Low,1,4,"If 5 workers finish a job in 8 days, how many days will 10 workers take for the same job?",1.0,100.0%
+326,Math Word Problems,Low,1,5,A shirt costs $40. A 25% discount is applied. What is the final price?,1.0,100.0%
+327,Math Word Problems,Low,1,6,A tank holds 500 liters. It leaks 5 liters per hour. After 20 hours how many liters remain?,1.0,100.0%
+328,Math Word Problems,Low,1,7,Sarah saves $15 every week. How much will she save in 52 weeks?,0.0,0.0%
+329,Math Word Problems,Low,1,8,A pizza is cut into 8 equal slices. 3 people each eat 2 slices. How many slices are left?,1.0,100.0%
+330,Math Word Problems,Low,1,9,A car uses 6 liters of fuel per 100 km. How much fuel is needed for a 350 km trip?,0.0,0.0%
+331,Math Word Problems,Low,3,0,A shop sells apples for $2 each and oranges for $3 each. Tom buys 4 apples and 3 oranges. How much does Tom spend?,1.0,100.0%
+332,Math Word Problems,Low,3,1,A train travels 60 km/h for 2 hours then 80 km/h for 3 hours. What is the total distance?,1.0,100.0%
+333,Math Word Problems,Low,3,2,A class has 30 students. 40% are girls. How many boys are in the class?,1.0,100.0%
+334,Math Word Problems,Low,3,3,A rectangle has length 12 cm and width 5 cm. What is its perimeter?,1.0,100.0%
+335,Math Word Problems,Low,3,4,"If 5 workers finish a job in 8 days, how many days will 10 workers take for the same job?",1.0,100.0%
+336,Math Word Problems,Low,3,5,A shirt costs $40. A 25% discount is applied. What is the final price?,1.0,100.0%
+337,Math Word Problems,Low,3,6,A tank holds 500 liters. It leaks 5 liters per hour. After 20 hours how many liters remain?,1.0,100.0%
+338,Math Word Problems,Low,3,7,Sarah saves $15 every week. How much will she save in 52 weeks?,0.0,0.0%
+339,Math Word Problems,Low,3,8,A pizza is cut into 8 equal slices. 3 people each eat 2 slices. How many slices are left?,1.0,100.0%
+340,Math Word Problems,Low,3,9,A car uses 6 liters of fuel per 100 km. How much fuel is needed for a 350 km trip?,0.0,0.0%
+341,Math Word Problems,Low,5,0,A shop sells apples for $2 each and oranges for $3 each. Tom buys 4 apples and 3 oranges. How much does Tom spend?,1.0,100.0%
+342,Math Word Problems,Low,5,1,A train travels 60 km/h for 2 hours then 80 km/h for 3 hours. What is the total distance?,1.0,100.0%
+343,Math Word Problems,Low,5,2,A class has 30 students. 40% are girls. How many boys are in the class?,1.0,100.0%
+344,Math Word Problems,Low,5,3,A rectangle has length 12 cm and width 5 cm. What is its perimeter?,1.0,100.0%
+345,Math Word Problems,Low,5,4,"If 5 workers finish a job in 8 days, how many days will 10 workers take for the same job?",1.0,100.0%
+346,Math Word Problems,Low,5,5,A shirt costs $40. A 25% discount is applied. What is the final price?,1.0,100.0%
+347,Math Word Problems,Low,5,6,A tank holds 500 liters. It leaks 5 liters per hour. After 20 hours how many liters remain?,1.0,100.0%
+348,Math Word Problems,Low,5,7,Sarah saves $15 every week. How much will she save in 52 weeks?,0.0,0.0%
+349,Math Word Problems,Low,5,8,A pizza is cut into 8 equal slices. 3 people each eat 2 slices. How many slices are left?,1.0,100.0%
+350,Math Word Problems,Low,5,9,A car uses 6 liters of fuel per 100 km. How much fuel is needed for a 350 km trip?,0.0,0.0%
+351,Math Word Problems,Low,10,0,A shop sells apples for $2 each and oranges for $3 each. Tom buys 4 apples and 3 oranges. How much does Tom spend?,1.0,100.0%
+352,Math Word Problems,Low,10,1,A train travels 60 km/h for 2 hours then 80 km/h for 3 hours. What is the total distance?,1.0,100.0%
+353,Math Word Problems,Low,10,2,A class has 30 students. 40% are girls. How many boys are in the class?,1.0,100.0%
+354,Math Word Problems,Low,10,3,A rectangle has length 12 cm and width 5 cm. What is its perimeter?,1.0,100.0%
+355,Math Word Problems,Low,10,4,"If 5 workers finish a job in 8 days, how many days will 10 workers take for the same job?",1.0,100.0%
+356,Math Word Problems,Low,10,5,A shirt costs $40. A 25% discount is applied. What is the final price?,1.0,100.0%
+357,Math Word Problems,Low,10,6,A tank holds 500 liters. It leaks 5 liters per hour. After 20 hours how many liters remain?,1.0,100.0%
+358,Math Word Problems,Low,10,7,Sarah saves $15 every week. How much will she save in 52 weeks?,0.0,0.0%
+359,Math Word Problems,Low,10,8,A pizza is cut into 8 equal slices. 3 people each eat 2 slices. How many slices are left?,1.0,100.0%
+360,Math Word Problems,Low,10,9,A car uses 6 liters of fuel per 100 km. How much fuel is needed for a 350 km trip?,0.0,0.0%
+361,Text Summarization,High,1,0,"The Amazon rainforest, often referred to as the lungs of the Earth, produces about 20% of the world's oxygen. It covers over 5.5 million square kilometers and is home to 10% of all species on Earth. Deforestation has accelerated in recent decades due to agriculture, logging, and infrastructure development, threatening biodiversity and contributing to climate change.",0.8833,88.3%
+362,Text Summarization,High,1,1,"Artificial intelligence has transformed industries from healthcare to finance. Machine learning models now diagnose diseases with accuracy comparable to doctors, automate stock trading, and power recommendation engines. Despite these advances, ethical concerns around bias, privacy, and job displacement remain significant challenges.",0.5208,52.1%
+363,Text Summarization,High,1,2,"The Great Wall of China stretches over 21,000 kilometers and was built over many centuries by various Chinese dynasties. Its primary purpose was military defense. Today it is a UNESCO World Heritage Site and one of the most visited tourist attractions in the world, drawing over 10 million visitors annually.",0.875,87.5%
+364,Text Summarization,High,1,3,"Quantum computing uses qubits instead of classical bits, allowing computations to occur in superposition. This enables quantum computers to solve certain problems exponentially faster than classical computers. Applications include drug discovery, cryptography, and optimization problems. IBM and Google are leading the race to achieve quantum advantage.",1.0,100.0%
+365,Text Summarization,High,1,4,"Sleep is essential for physical and mental health. During sleep, the brain consolidates memories, the body repairs tissues, and the immune system strengthens. Adults need 7-9 hours of sleep per night. Chronic sleep deprivation is linked to obesity, diabetes, cardiovascular disease, and cognitive decline.",0.9167,91.7%
+366,Text Summarization,High,1,5,"Climate change is causing global temperatures to rise at an unprecedented rate. The past decade has been the hottest on record, with consequences including rising sea levels, more frequent extreme weather events, and shifting ecosystems. International agreements like the Paris Accord aim to limit warming to 1.5°C above pre-industrial levels.",1.0,100.0%
+367,Text Summarization,High,1,6,"The human genome contains approximately 3 billion base pairs and around 20,000 protein-coding genes. The Human Genome Project, completed in 2003, mapped the entire genome. This has enabled advances in personalized medicine, genetic disease diagnosis, and gene therapies like CRISPR.",1.0,100.0%
+368,Text Summarization,High,1,7,"Social media platforms have fundamentally changed how people communicate and consume information. While they enable global connectivity and grassroots movements, they also spread misinformation rapidly and have been linked to increased anxiety and depression, especially among teenagers.",1.0,100.0%
+369,Text Summarization,High,1,8,Electric vehicles are becoming increasingly mainstream as battery technology improves and charging infrastructure expands. EVs produce zero direct emissions and have lower lifetime operating costs than gasoline vehicles. Governments worldwide are setting targets to phase out internal combustion engines by 2035-2040.,1.0,100.0%
+370,Text Summarization,High,1,9,"The microbiome refers to the trillions of microorganisms living in the human gut. These bacteria play critical roles in digestion, immune function, and even mental health through the gut-brain axis. Diet, antibiotics, and lifestyle significantly affect microbiome composition, with imbalances linked to conditions like IBS and depression.",1.0,100.0%
+371,Text Summarization,High,3,0,"The Amazon rainforest, often referred to as the lungs of the Earth, produces about 20% of the world's oxygen. It covers over 5.5 million square kilometers and is home to 10% of all species on Earth. Deforestation has accelerated in recent decades due to agriculture, logging, and infrastructure development, threatening biodiversity and contributing to climate change.",0.8833,88.3%
+372,Text Summarization,High,3,1,"Artificial intelligence has transformed industries from healthcare to finance. Machine learning models now diagnose diseases with accuracy comparable to doctors, automate stock trading, and power recommendation engines. Despite these advances, ethical concerns around bias, privacy, and job displacement remain significant challenges.",0.5208,52.1%
+373,Text Summarization,High,3,2,"The Great Wall of China stretches over 21,000 kilometers and was built over many centuries by various Chinese dynasties. Its primary purpose was military defense. Today it is a UNESCO World Heritage Site and one of the most visited tourist attractions in the world, drawing over 10 million visitors annually.",0.875,87.5%
+374,Text Summarization,High,3,3,"Quantum computing uses qubits instead of classical bits, allowing computations to occur in superposition. This enables quantum computers to solve certain problems exponentially faster than classical computers. Applications include drug discovery, cryptography, and optimization problems. IBM and Google are leading the race to achieve quantum advantage.",1.0,100.0%
+375,Text Summarization,High,3,4,"Sleep is essential for physical and mental health. During sleep, the brain consolidates memories, the body repairs tissues, and the immune system strengthens. Adults need 7-9 hours of sleep per night. Chronic sleep deprivation is linked to obesity, diabetes, cardiovascular disease, and cognitive decline.",0.9167,91.7%
+376,Text Summarization,High,3,5,"Climate change is causing global temperatures to rise at an unprecedented rate. The past decade has been the hottest on record, with consequences including rising sea levels, more frequent extreme weather events, and shifting ecosystems. International agreements like the Paris Accord aim to limit warming to 1.5°C above pre-industrial levels.",1.0,100.0%
+377,Text Summarization,High,3,6,"The human genome contains approximately 3 billion base pairs and around 20,000 protein-coding genes. The Human Genome Project, completed in 2003, mapped the entire genome. This has enabled advances in personalized medicine, genetic disease diagnosis, and gene therapies like CRISPR.",1.0,100.0%
+378,Text Summarization,High,3,7,"Social media platforms have fundamentally changed how people communicate and consume information. While they enable global connectivity and grassroots movements, they also spread misinformation rapidly and have been linked to increased anxiety and depression, especially among teenagers.",1.0,100.0%
+379,Text Summarization,High,3,8,Electric vehicles are becoming increasingly mainstream as battery technology improves and charging infrastructure expands. EVs produce zero direct emissions and have lower lifetime operating costs than gasoline vehicles. Governments worldwide are setting targets to phase out internal combustion engines by 2035-2040.,1.0,100.0%
+380,Text Summarization,High,3,9,"The microbiome refers to the trillions of microorganisms living in the human gut. These bacteria play critical roles in digestion, immune function, and even mental health through the gut-brain axis. Diet, antibiotics, and lifestyle significantly affect microbiome composition, with imbalances linked to conditions like IBS and depression.",1.0,100.0%
+381,Text Summarization,High,5,0,"The Amazon rainforest, often referred to as the lungs of the Earth, produces about 20% of the world's oxygen. It covers over 5.5 million square kilometers and is home to 10% of all species on Earth. Deforestation has accelerated in recent decades due to agriculture, logging, and infrastructure development, threatening biodiversity and contributing to climate change.",0.8833,88.3%
+382,Text Summarization,High,5,1,"Artificial intelligence has transformed industries from healthcare to finance. Machine learning models now diagnose diseases with accuracy comparable to doctors, automate stock trading, and power recommendation engines. Despite these advances, ethical concerns around bias, privacy, and job displacement remain significant challenges.",0.5208,52.1%
+383,Text Summarization,High,5,2,"The Great Wall of China stretches over 21,000 kilometers and was built over many centuries by various Chinese dynasties. Its primary purpose was military defense. Today it is a UNESCO World Heritage Site and one of the most visited tourist attractions in the world, drawing over 10 million visitors annually.",0.875,87.5%
+384,Text Summarization,High,5,3,"Quantum computing uses qubits instead of classical bits, allowing computations to occur in superposition. This enables quantum computers to solve certain problems exponentially faster than classical computers. Applications include drug discovery, cryptography, and optimization problems. IBM and Google are leading the race to achieve quantum advantage.",1.0,100.0%
+385,Text Summarization,High,5,4,"Sleep is essential for physical and mental health. During sleep, the brain consolidates memories, the body repairs tissues, and the immune system strengthens. Adults need 7-9 hours of sleep per night. Chronic sleep deprivation is linked to obesity, diabetes, cardiovascular disease, and cognitive decline.",0.9167,91.7%
+386,Text Summarization,High,5,5,"Climate change is causing global temperatures to rise at an unprecedented rate. The past decade has been the hottest on record, with consequences including rising sea levels, more frequent extreme weather events, and shifting ecosystems. International agreements like the Paris Accord aim to limit warming to 1.5°C above pre-industrial levels.",1.0,100.0%
+387,Text Summarization,High,5,6,"The human genome contains approximately 3 billion base pairs and around 20,000 protein-coding genes. The Human Genome Project, completed in 2003, mapped the entire genome. This has enabled advances in personalized medicine, genetic disease diagnosis, and gene therapies like CRISPR.",1.0,100.0%
+388,Text Summarization,High,5,7,"Social media platforms have fundamentally changed how people communicate and consume information. While they enable global connectivity and grassroots movements, they also spread misinformation rapidly and have been linked to increased anxiety and depression, especially among teenagers.",1.0,100.0%
+389,Text Summarization,High,5,8,Electric vehicles are becoming increasingly mainstream as battery technology improves and charging infrastructure expands. EVs produce zero direct emissions and have lower lifetime operating costs than gasoline vehicles. Governments worldwide are setting targets to phase out internal combustion engines by 2035-2040.,1.0,100.0%
+390,Text Summarization,High,5,9,"The microbiome refers to the trillions of microorganisms living in the human gut. These bacteria play critical roles in digestion, immune function, and even mental health through the gut-brain axis. Diet, antibiotics, and lifestyle significantly affect microbiome composition, with imbalances linked to conditions like IBS and depression.",1.0,100.0%
+391,Text Summarization,High,10,0,"The Amazon rainforest, often referred to as the lungs of the Earth, produces about 20% of the world's oxygen. It covers over 5.5 million square kilometers and is home to 10% of all species on Earth. Deforestation has accelerated in recent decades due to agriculture, logging, and infrastructure development, threatening biodiversity and contributing to climate change.",0.7833,78.3%
+392,Text Summarization,High,10,1,"Artificial intelligence has transformed industries from healthcare to finance. Machine learning models now diagnose diseases with accuracy comparable to doctors, automate stock trading, and power recommendation engines. Despite these advances, ethical concerns around bias, privacy, and job displacement remain significant challenges.",0.5208,52.1%
+393,Text Summarization,High,10,2,"The Great Wall of China stretches over 21,000 kilometers and was built over many centuries by various Chinese dynasties. Its primary purpose was military defense. Today it is a UNESCO World Heritage Site and one of the most visited tourist attractions in the world, drawing over 10 million visitors annually.",0.875,87.5%
+394,Text Summarization,High,10,3,"Quantum computing uses qubits instead of classical bits, allowing computations to occur in superposition. This enables quantum computers to solve certain problems exponentially faster than classical computers. Applications include drug discovery, cryptography, and optimization problems. IBM and Google are leading the race to achieve quantum advantage.",1.0,100.0%
+395,Text Summarization,High,10,4,"Sleep is essential for physical and mental health. During sleep, the brain consolidates memories, the body repairs tissues, and the immune system strengthens. Adults need 7-9 hours of sleep per night. Chronic sleep deprivation is linked to obesity, diabetes, cardiovascular disease, and cognitive decline.",0.9167,91.7%
+396,Text Summarization,High,10,5,"Climate change is causing global temperatures to rise at an unprecedented rate. The past decade has been the hottest on record, with consequences including rising sea levels, more frequent extreme weather events, and shifting ecosystems. International agreements like the Paris Accord aim to limit warming to 1.5°C above pre-industrial levels.",1.0,100.0%
+397,Text Summarization,High,10,6,"The human genome contains approximately 3 billion base pairs and around 20,000 protein-coding genes. The Human Genome Project, completed in 2003, mapped the entire genome. This has enabled advances in personalized medicine, genetic disease diagnosis, and gene therapies like CRISPR.",1.0,100.0%
+398,Text Summarization,High,10,7,"Social media platforms have fundamentally changed how people communicate and consume information. While they enable global connectivity and grassroots movements, they also spread misinformation rapidly and have been linked to increased anxiety and depression, especially among teenagers.",1.0,100.0%
+399,Text Summarization,High,10,8,Electric vehicles are becoming increasingly mainstream as battery technology improves and charging infrastructure expands. EVs produce zero direct emissions and have lower lifetime operating costs than gasoline vehicles. Governments worldwide are setting targets to phase out internal combustion engines by 2035-2040.,1.0,100.0%
+400,Text Summarization,High,10,9,"The microbiome refers to the trillions of microorganisms living in the human gut. These bacteria play critical roles in digestion, immune function, and even mental health through the gut-brain axis. Diet, antibiotics, and lifestyle significantly affect microbiome composition, with imbalances linked to conditions like IBS and depression.",1.0,100.0%
+401,Text Summarization,Medium,1,0,"The Amazon rainforest, often referred to as the lungs of the Earth, produces about 20% of the world's oxygen. It covers over 5.5 million square kilometers and is home to 10% of all species on Earth. Deforestation has accelerated in recent decades due to agriculture, logging, and infrastructure development, threatening biodiversity and contributing to climate change.",0.8333,83.3%
+402,Text Summarization,Medium,1,1,"Artificial intelligence has transformed industries from healthcare to finance. Machine learning models now diagnose diseases with accuracy comparable to doctors, automate stock trading, and power recommendation engines. Despite these advances, ethical concerns around bias, privacy, and job displacement remain significant challenges.",0.6875,68.8%
+403,Text Summarization,Medium,1,2,"The Great Wall of China stretches over 21,000 kilometers and was built over many centuries by various Chinese dynasties. Its primary purpose was military defense. Today it is a UNESCO World Heritage Site and one of the most visited tourist attractions in the world, drawing over 10 million visitors annually.",0.7917,79.2%
+404,Text Summarization,Medium,1,3,"Quantum computing uses qubits instead of classical bits, allowing computations to occur in superposition. This enables quantum computers to solve certain problems exponentially faster than classical computers. Applications include drug discovery, cryptography, and optimization problems. IBM and Google are leading the race to achieve quantum advantage.",1.0,100.0%
+405,Text Summarization,Medium,1,4,"Sleep is essential for physical and mental health. During sleep, the brain consolidates memories, the body repairs tissues, and the immune system strengthens. Adults need 7-9 hours of sleep per night. Chronic sleep deprivation is linked to obesity, diabetes, cardiovascular disease, and cognitive decline.",0.9167,91.7%
+406,Text Summarization,Medium,1,5,"Climate change is causing global temperatures to rise at an unprecedented rate. The past decade has been the hottest on record, with consequences including rising sea levels, more frequent extreme weather events, and shifting ecosystems. International agreements like the Paris Accord aim to limit warming to 1.5°C above pre-industrial levels.",0.75,75.0%
+407,Text Summarization,Medium,1,6,"The human genome contains approximately 3 billion base pairs and around 20,000 protein-coding genes. The Human Genome Project, completed in 2003, mapped the entire genome. This has enabled advances in personalized medicine, genetic disease diagnosis, and gene therapies like CRISPR.",1.0,100.0%
+408,Text Summarization,Medium,1,7,"Social media platforms have fundamentally changed how people communicate and consume information. While they enable global connectivity and grassroots movements, they also spread misinformation rapidly and have been linked to increased anxiety and depression, especially among teenagers.",0.875,87.5%
+409,Text Summarization,Medium,1,8,Electric vehicles are becoming increasingly mainstream as battery technology improves and charging infrastructure expands. EVs produce zero direct emissions and have lower lifetime operating costs than gasoline vehicles. Governments worldwide are setting targets to phase out internal combustion engines by 2035-2040.,0.4583,45.8%
+410,Text Summarization,Medium,1,9,"The microbiome refers to the trillions of microorganisms living in the human gut. These bacteria play critical roles in digestion, immune function, and even mental health through the gut-brain axis. Diet, antibiotics, and lifestyle significantly affect microbiome composition, with imbalances linked to conditions like IBS and depression.",0.75,75.0%
+411,Text Summarization,Medium,3,0,"The Amazon rainforest, often referred to as the lungs of the Earth, produces about 20% of the world's oxygen. It covers over 5.5 million square kilometers and is home to 10% of all species on Earth. Deforestation has accelerated in recent decades due to agriculture, logging, and infrastructure development, threatening biodiversity and contributing to climate change.",0.9333,93.3%
+412,Text Summarization,Medium,3,1,"Artificial intelligence has transformed industries from healthcare to finance. Machine learning models now diagnose diseases with accuracy comparable to doctors, automate stock trading, and power recommendation engines. Despite these advances, ethical concerns around bias, privacy, and job displacement remain significant challenges.",0.7708,77.1%
+413,Text Summarization,Medium,3,2,"The Great Wall of China stretches over 21,000 kilometers and was built over many centuries by various Chinese dynasties. Its primary purpose was military defense. Today it is a UNESCO World Heritage Site and one of the most visited tourist attractions in the world, drawing over 10 million visitors annually.",0.7917,79.2%
+414,Text Summarization,Medium,3,3,"Quantum computing uses qubits instead of classical bits, allowing computations to occur in superposition. This enables quantum computers to solve certain problems exponentially faster than classical computers. Applications include drug discovery, cryptography, and optimization problems. IBM and Google are leading the race to achieve quantum advantage.",0.9,90.0%
+415,Text Summarization,Medium,3,4,"Sleep is essential for physical and mental health. During sleep, the brain consolidates memories, the body repairs tissues, and the immune system strengthens. Adults need 7-9 hours of sleep per night. Chronic sleep deprivation is linked to obesity, diabetes, cardiovascular disease, and cognitive decline.",0.5417,54.2%
+416,Text Summarization,Medium,3,5,"Climate change is causing global temperatures to rise at an unprecedented rate. The past decade has been the hottest on record, with consequences including rising sea levels, more frequent extreme weather events, and shifting ecosystems. International agreements like the Paris Accord aim to limit warming to 1.5°C above pre-industrial levels.",0.75,75.0%
+417,Text Summarization,Medium,3,6,"The human genome contains approximately 3 billion base pairs and around 20,000 protein-coding genes. The Human Genome Project, completed in 2003, mapped the entire genome. This has enabled advances in personalized medicine, genetic disease diagnosis, and gene therapies like CRISPR.",1.0,100.0%
+418,Text Summarization,Medium,3,7,"Social media platforms have fundamentally changed how people communicate and consume information. While they enable global connectivity and grassroots movements, they also spread misinformation rapidly and have been linked to increased anxiety and depression, especially among teenagers.",1.0,100.0%
+419,Text Summarization,Medium,3,8,Electric vehicles are becoming increasingly mainstream as battery technology improves and charging infrastructure expands. EVs produce zero direct emissions and have lower lifetime operating costs than gasoline vehicles. Governments worldwide are setting targets to phase out internal combustion engines by 2035-2040.,0.4583,45.8%
+420,Text Summarization,Medium,3,9,"The microbiome refers to the trillions of microorganisms living in the human gut. These bacteria play critical roles in digestion, immune function, and even mental health through the gut-brain axis. Diet, antibiotics, and lifestyle significantly affect microbiome composition, with imbalances linked to conditions like IBS and depression.",0.75,75.0%
+421,Text Summarization,Medium,5,0,"The Amazon rainforest, often referred to as the lungs of the Earth, produces about 20% of the world's oxygen. It covers over 5.5 million square kilometers and is home to 10% of all species on Earth. Deforestation has accelerated in recent decades due to agriculture, logging, and infrastructure development, threatening biodiversity and contributing to climate change.",0.7,70.0%
+422,Text Summarization,Medium,5,1,"Artificial intelligence has transformed industries from healthcare to finance. Machine learning models now diagnose diseases with accuracy comparable to doctors, automate stock trading, and power recommendation engines. Despite these advances, ethical concerns around bias, privacy, and job displacement remain significant challenges.",0.7708,77.1%
+423,Text Summarization,Medium,5,2,"The Great Wall of China stretches over 21,000 kilometers and was built over many centuries by various Chinese dynasties. Its primary purpose was military defense. Today it is a UNESCO World Heritage Site and one of the most visited tourist attractions in the world, drawing over 10 million visitors annually.",0.7917,79.2%
+424,Text Summarization,Medium,5,3,"Quantum computing uses qubits instead of classical bits, allowing computations to occur in superposition. This enables quantum computers to solve certain problems exponentially faster than classical computers. Applications include drug discovery, cryptography, and optimization problems. IBM and Google are leading the race to achieve quantum advantage.",0.9,90.0%
+425,Text Summarization,Medium,5,4,"Sleep is essential for physical and mental health. During sleep, the brain consolidates memories, the body repairs tissues, and the immune system strengthens. Adults need 7-9 hours of sleep per night. Chronic sleep deprivation is linked to obesity, diabetes, cardiovascular disease, and cognitive decline.",0.9167,91.7%
+426,Text Summarization,Medium,5,5,"Climate change is causing global temperatures to rise at an unprecedented rate. The past decade has been the hottest on record, with consequences including rising sea levels, more frequent extreme weather events, and shifting ecosystems. International agreements like the Paris Accord aim to limit warming to 1.5°C above pre-industrial levels.",0.75,75.0%
+427,Text Summarization,Medium,5,6,"The human genome contains approximately 3 billion base pairs and around 20,000 protein-coding genes. The Human Genome Project, completed in 2003, mapped the entire genome. This has enabled advances in personalized medicine, genetic disease diagnosis, and gene therapies like CRISPR.",1.0,100.0%
+428,Text Summarization,Medium,5,7,"Social media platforms have fundamentally changed how people communicate and consume information. While they enable global connectivity and grassroots movements, they also spread misinformation rapidly and have been linked to increased anxiety and depression, especially among teenagers.",0.875,87.5%
+429,Text Summarization,Medium,5,8,Electric vehicles are becoming increasingly mainstream as battery technology improves and charging infrastructure expands. EVs produce zero direct emissions and have lower lifetime operating costs than gasoline vehicles. Governments worldwide are setting targets to phase out internal combustion engines by 2035-2040.,0.4583,45.8%
+430,Text Summarization,Medium,5,9,"The microbiome refers to the trillions of microorganisms living in the human gut. These bacteria play critical roles in digestion, immune function, and even mental health through the gut-brain axis. Diet, antibiotics, and lifestyle significantly affect microbiome composition, with imbalances linked to conditions like IBS and depression.",0.75,75.0%
+431,Text Summarization,Medium,10,0,"The Amazon rainforest, often referred to as the lungs of the Earth, produces about 20% of the world's oxygen. It covers over 5.5 million square kilometers and is home to 10% of all species on Earth. Deforestation has accelerated in recent decades due to agriculture, logging, and infrastructure development, threatening biodiversity and contributing to climate change.",0.7,70.0%
+432,Text Summarization,Medium,10,1,"Artificial intelligence has transformed industries from healthcare to finance. Machine learning models now diagnose diseases with accuracy comparable to doctors, automate stock trading, and power recommendation engines. Despite these advances, ethical concerns around bias, privacy, and job displacement remain significant challenges.",0.7708,77.1%
+433,Text Summarization,Medium,10,2,"The Great Wall of China stretches over 21,000 kilometers and was built over many centuries by various Chinese dynasties. Its primary purpose was military defense. Today it is a UNESCO World Heritage Site and one of the most visited tourist attractions in the world, drawing over 10 million visitors annually.",0.7917,79.2%
+434,Text Summarization,Medium,10,3,"Quantum computing uses qubits instead of classical bits, allowing computations to occur in superposition. This enables quantum computers to solve certain problems exponentially faster than classical computers. Applications include drug discovery, cryptography, and optimization problems. IBM and Google are leading the race to achieve quantum advantage.",0.9,90.0%
+435,Text Summarization,Medium,10,4,"Sleep is essential for physical and mental health. During sleep, the brain consolidates memories, the body repairs tissues, and the immune system strengthens. Adults need 7-9 hours of sleep per night. Chronic sleep deprivation is linked to obesity, diabetes, cardiovascular disease, and cognitive decline.",0.9167,91.7%
+436,Text Summarization,Medium,10,5,"Climate change is causing global temperatures to rise at an unprecedented rate. The past decade has been the hottest on record, with consequences including rising sea levels, more frequent extreme weather events, and shifting ecosystems. International agreements like the Paris Accord aim to limit warming to 1.5°C above pre-industrial levels.",0.75,75.0%
+437,Text Summarization,Medium,10,6,"The human genome contains approximately 3 billion base pairs and around 20,000 protein-coding genes. The Human Genome Project, completed in 2003, mapped the entire genome. This has enabled advances in personalized medicine, genetic disease diagnosis, and gene therapies like CRISPR.",1.0,100.0%
+438,Text Summarization,Medium,10,7,"Social media platforms have fundamentally changed how people communicate and consume information. While they enable global connectivity and grassroots movements, they also spread misinformation rapidly and have been linked to increased anxiety and depression, especially among teenagers.",0.875,87.5%
+439,Text Summarization,Medium,10,8,Electric vehicles are becoming increasingly mainstream as battery technology improves and charging infrastructure expands. EVs produce zero direct emissions and have lower lifetime operating costs than gasoline vehicles. Governments worldwide are setting targets to phase out internal combustion engines by 2035-2040.,0.4583,45.8%
+440,Text Summarization,Medium,10,9,"The microbiome refers to the trillions of microorganisms living in the human gut. These bacteria play critical roles in digestion, immune function, and even mental health through the gut-brain axis. Diet, antibiotics, and lifestyle significantly affect microbiome composition, with imbalances linked to conditions like IBS and depression.",0.75,75.0%
+441,Text Summarization,Low,1,0,"The Amazon rainforest, often referred to as the lungs of the Earth, produces about 20% of the world's oxygen. It covers over 5.5 million square kilometers and is home to 10% of all species on Earth. Deforestation has accelerated in recent decades due to agriculture, logging, and infrastructure development, threatening biodiversity and contributing to climate change.",0.8333,83.3%
+442,Text Summarization,Low,1,1,"Artificial intelligence has transformed industries from healthcare to finance. Machine learning models now diagnose diseases with accuracy comparable to doctors, automate stock trading, and power recommendation engines. Despite these advances, ethical concerns around bias, privacy, and job displacement remain significant challenges.",0.6042,60.4%
+443,Text Summarization,Low,1,2,"The Great Wall of China stretches over 21,000 kilometers and was built over many centuries by various Chinese dynasties. Its primary purpose was military defense. Today it is a UNESCO World Heritage Site and one of the most visited tourist attractions in the world, drawing over 10 million visitors annually.",0.875,87.5%
+444,Text Summarization,Low,1,3,"Quantum computing uses qubits instead of classical bits, allowing computations to occur in superposition. This enables quantum computers to solve certain problems exponentially faster than classical computers. Applications include drug discovery, cryptography, and optimization problems. IBM and Google are leading the race to achieve quantum advantage.",0.9,90.0%
+445,Text Summarization,Low,1,4,"Sleep is essential for physical and mental health. During sleep, the brain consolidates memories, the body repairs tissues, and the immune system strengthens. Adults need 7-9 hours of sleep per night. Chronic sleep deprivation is linked to obesity, diabetes, cardiovascular disease, and cognitive decline.",0.9167,91.7%
+446,Text Summarization,Low,1,5,"Climate change is causing global temperatures to rise at an unprecedented rate. The past decade has been the hottest on record, with consequences including rising sea levels, more frequent extreme weather events, and shifting ecosystems. International agreements like the Paris Accord aim to limit warming to 1.5°C above pre-industrial levels.",0.875,87.5%
+447,Text Summarization,Low,1,6,"The human genome contains approximately 3 billion base pairs and around 20,000 protein-coding genes. The Human Genome Project, completed in 2003, mapped the entire genome. This has enabled advances in personalized medicine, genetic disease diagnosis, and gene therapies like CRISPR.",1.0,100.0%
+448,Text Summarization,Low,1,7,"Social media platforms have fundamentally changed how people communicate and consume information. While they enable global connectivity and grassroots movements, they also spread misinformation rapidly and have been linked to increased anxiety and depression, especially among teenagers.",0.875,87.5%
+449,Text Summarization,Low,1,8,Electric vehicles are becoming increasingly mainstream as battery technology improves and charging infrastructure expands. EVs produce zero direct emissions and have lower lifetime operating costs than gasoline vehicles. Governments worldwide are setting targets to phase out internal combustion engines by 2035-2040.,0.875,87.5%
+450,Text Summarization,Low,1,9,"The microbiome refers to the trillions of microorganisms living in the human gut. These bacteria play critical roles in digestion, immune function, and even mental health through the gut-brain axis. Diet, antibiotics, and lifestyle significantly affect microbiome composition, with imbalances linked to conditions like IBS and depression.",0.75,75.0%
+451,Text Summarization,Low,3,0,"The Amazon rainforest, often referred to as the lungs of the Earth, produces about 20% of the world's oxygen. It covers over 5.5 million square kilometers and is home to 10% of all species on Earth. Deforestation has accelerated in recent decades due to agriculture, logging, and infrastructure development, threatening biodiversity and contributing to climate change.",0.9333,93.3%
+452,Text Summarization,Low,3,1,"Artificial intelligence has transformed industries from healthcare to finance. Machine learning models now diagnose diseases with accuracy comparable to doctors, automate stock trading, and power recommendation engines. Despite these advances, ethical concerns around bias, privacy, and job displacement remain significant challenges.",0.3542,35.4%
+453,Text Summarization,Low,3,2,"The Great Wall of China stretches over 21,000 kilometers and was built over many centuries by various Chinese dynasties. Its primary purpose was military defense. Today it is a UNESCO World Heritage Site and one of the most visited tourist attractions in the world, drawing over 10 million visitors annually.",0.875,87.5%
+454,Text Summarization,Low,3,3,"Quantum computing uses qubits instead of classical bits, allowing computations to occur in superposition. This enables quantum computers to solve certain problems exponentially faster than classical computers. Applications include drug discovery, cryptography, and optimization problems. IBM and Google are leading the race to achieve quantum advantage.",1.0,100.0%
+455,Text Summarization,Low,3,4,"Sleep is essential for physical and mental health. During sleep, the brain consolidates memories, the body repairs tissues, and the immune system strengthens. Adults need 7-9 hours of sleep per night. Chronic sleep deprivation is linked to obesity, diabetes, cardiovascular disease, and cognitive decline.",0.9167,91.7%
+456,Text Summarization,Low,3,5,"Climate change is causing global temperatures to rise at an unprecedented rate. The past decade has been the hottest on record, with consequences including rising sea levels, more frequent extreme weather events, and shifting ecosystems. International agreements like the Paris Accord aim to limit warming to 1.5°C above pre-industrial levels.",0.875,87.5%
+457,Text Summarization,Low,3,6,"The human genome contains approximately 3 billion base pairs and around 20,000 protein-coding genes. The Human Genome Project, completed in 2003, mapped the entire genome. This has enabled advances in personalized medicine, genetic disease diagnosis, and gene therapies like CRISPR.",1.0,100.0%
+458,Text Summarization,Low,3,7,"Social media platforms have fundamentally changed how people communicate and consume information. While they enable global connectivity and grassroots movements, they also spread misinformation rapidly and have been linked to increased anxiety and depression, especially among teenagers.",1.0,100.0%
+459,Text Summarization,Low,3,8,Electric vehicles are becoming increasingly mainstream as battery technology improves and charging infrastructure expands. EVs produce zero direct emissions and have lower lifetime operating costs than gasoline vehicles. Governments worldwide are setting targets to phase out internal combustion engines by 2035-2040.,0.9167,91.7%
+460,Text Summarization,Low,3,9,"The microbiome refers to the trillions of microorganisms living in the human gut. These bacteria play critical roles in digestion, immune function, and even mental health through the gut-brain axis. Diet, antibiotics, and lifestyle significantly affect microbiome composition, with imbalances linked to conditions like IBS and depression.",0.75,75.0%
+461,Text Summarization,Low,5,0,"The Amazon rainforest, often referred to as the lungs of the Earth, produces about 20% of the world's oxygen. It covers over 5.5 million square kilometers and is home to 10% of all species on Earth. Deforestation has accelerated in recent decades due to agriculture, logging, and infrastructure development, threatening biodiversity and contributing to climate change.",0.9333,93.3%
+462,Text Summarization,Low,5,1,"Artificial intelligence has transformed industries from healthcare to finance. Machine learning models now diagnose diseases with accuracy comparable to doctors, automate stock trading, and power recommendation engines. Despite these advances, ethical concerns around bias, privacy, and job displacement remain significant challenges.",0.4167,41.7%
+463,Text Summarization,Low,5,2,"The Great Wall of China stretches over 21,000 kilometers and was built over many centuries by various Chinese dynasties. Its primary purpose was military defense. Today it is a UNESCO World Heritage Site and one of the most visited tourist attractions in the world, drawing over 10 million visitors annually.",0.875,87.5%
+464,Text Summarization,Low,5,3,"Quantum computing uses qubits instead of classical bits, allowing computations to occur in superposition. This enables quantum computers to solve certain problems exponentially faster than classical computers. Applications include drug discovery, cryptography, and optimization problems. IBM and Google are leading the race to achieve quantum advantage.",1.0,100.0%
+465,Text Summarization,Low,5,4,"Sleep is essential for physical and mental health. During sleep, the brain consolidates memories, the body repairs tissues, and the immune system strengthens. Adults need 7-9 hours of sleep per night. Chronic sleep deprivation is linked to obesity, diabetes, cardiovascular disease, and cognitive decline.",0.9167,91.7%
+466,Text Summarization,Low,5,5,"Climate change is causing global temperatures to rise at an unprecedented rate. The past decade has been the hottest on record, with consequences including rising sea levels, more frequent extreme weather events, and shifting ecosystems. International agreements like the Paris Accord aim to limit warming to 1.5°C above pre-industrial levels.",0.875,87.5%
+467,Text Summarization,Low,5,6,"The human genome contains approximately 3 billion base pairs and around 20,000 protein-coding genes. The Human Genome Project, completed in 2003, mapped the entire genome. This has enabled advances in personalized medicine, genetic disease diagnosis, and gene therapies like CRISPR.",1.0,100.0%
+468,Text Summarization,Low,5,7,"Social media platforms have fundamentally changed how people communicate and consume information. While they enable global connectivity and grassroots movements, they also spread misinformation rapidly and have been linked to increased anxiety and depression, especially among teenagers.",1.0,100.0%
+469,Text Summarization,Low,5,8,Electric vehicles are becoming increasingly mainstream as battery technology improves and charging infrastructure expands. EVs produce zero direct emissions and have lower lifetime operating costs than gasoline vehicles. Governments worldwide are setting targets to phase out internal combustion engines by 2035-2040.,0.9167,91.7%
+470,Text Summarization,Low,5,9,"The microbiome refers to the trillions of microorganisms living in the human gut. These bacteria play critical roles in digestion, immune function, and even mental health through the gut-brain axis. Diet, antibiotics, and lifestyle significantly affect microbiome composition, with imbalances linked to conditions like IBS and depression.",1.0,100.0%
+471,Text Summarization,Low,10,0,"The Amazon rainforest, often referred to as the lungs of the Earth, produces about 20% of the world's oxygen. It covers over 5.5 million square kilometers and is home to 10% of all species on Earth. Deforestation has accelerated in recent decades due to agriculture, logging, and infrastructure development, threatening biodiversity and contributing to climate change.",0.8333,83.3%
+472,Text Summarization,Low,10,1,"Artificial intelligence has transformed industries from healthcare to finance. Machine learning models now diagnose diseases with accuracy comparable to doctors, automate stock trading, and power recommendation engines. Despite these advances, ethical concerns around bias, privacy, and job displacement remain significant challenges.",0.4167,41.7%
+473,Text Summarization,Low,10,2,"The Great Wall of China stretches over 21,000 kilometers and was built over many centuries by various Chinese dynasties. Its primary purpose was military defense. Today it is a UNESCO World Heritage Site and one of the most visited tourist attractions in the world, drawing over 10 million visitors annually.",0.875,87.5%
+474,Text Summarization,Low,10,3,"Quantum computing uses qubits instead of classical bits, allowing computations to occur in superposition. This enables quantum computers to solve certain problems exponentially faster than classical computers. Applications include drug discovery, cryptography, and optimization problems. IBM and Google are leading the race to achieve quantum advantage.",0.7,70.0%
+475,Text Summarization,Low,10,4,"Sleep is essential for physical and mental health. During sleep, the brain consolidates memories, the body repairs tissues, and the immune system strengthens. Adults need 7-9 hours of sleep per night. Chronic sleep deprivation is linked to obesity, diabetes, cardiovascular disease, and cognitive decline.",0.8333,83.3%
+476,Text Summarization,Low,10,5,"Climate change is causing global temperatures to rise at an unprecedented rate. The past decade has been the hottest on record, with consequences including rising sea levels, more frequent extreme weather events, and shifting ecosystems. International agreements like the Paris Accord aim to limit warming to 1.5°C above pre-industrial levels.",0.875,87.5%
+477,Text Summarization,Low,10,6,"The human genome contains approximately 3 billion base pairs and around 20,000 protein-coding genes. The Human Genome Project, completed in 2003, mapped the entire genome. This has enabled advances in personalized medicine, genetic disease diagnosis, and gene therapies like CRISPR.",1.0,100.0%
+478,Text Summarization,Low,10,7,"Social media platforms have fundamentally changed how people communicate and consume information. While they enable global connectivity and grassroots movements, they also spread misinformation rapidly and have been linked to increased anxiety and depression, especially among teenagers.",0.875,87.5%
+479,Text Summarization,Low,10,8,Electric vehicles are becoming increasingly mainstream as battery technology improves and charging infrastructure expands. EVs produce zero direct emissions and have lower lifetime operating costs than gasoline vehicles. Governments worldwide are setting targets to phase out internal combustion engines by 2035-2040.,0.5833,58.3%
+480,Text Summarization,Low,10,9,"The microbiome refers to the trillions of microorganisms living in the human gut. These bacteria play critical roles in digestion, immune function, and even mental health through the gut-brain axis. Diet, antibiotics, and lifestyle significantly affect microbiome composition, with imbalances linked to conditions like IBS and depression.",0.75,75.0%
+481,SQL Generation,High,1,0,Get the names of all employees in the 'Sales' department from the employees table.,1.0,100.0%
+482,SQL Generation,High,1,1,Find the total number of orders placed by each customer from the orders table.,1.0,100.0%
+483,SQL Generation,High,1,2,List all products whose price is greater than 100 from the products table.,1.0,100.0%
+484,SQL Generation,High,1,3,Get the top 5 highest-paid employees from the employees table.,1.0,100.0%
+485,SQL Generation,High,1,4,Find all customers who have not placed any orders. Use customers and orders tables.,1.0,100.0%
+486,SQL Generation,High,1,5,Calculate the average salary per department from the employees table.,1.0,100.0%
+487,SQL Generation,High,1,6,"Get the names and emails of customers who signed up after January 1, 2024.",1.0,100.0%
+488,SQL Generation,High,1,7,Count the number of products in each category from the products table.,1.0,100.0%
+489,SQL Generation,High,1,8,Find the most recent order date from the orders table.,1.0,100.0%
+490,SQL Generation,High,1,9,List employees who earn more than the average salary of their department.,0.75,75.0%
+491,SQL Generation,High,3,0,Get the names of all employees in the 'Sales' department from the employees table.,1.0,100.0%
+492,SQL Generation,High,3,1,Find the total number of orders placed by each customer from the orders table.,1.0,100.0%
+493,SQL Generation,High,3,2,List all products whose price is greater than 100 from the products table.,1.0,100.0%
+494,SQL Generation,High,3,3,Get the top 5 highest-paid employees from the employees table.,1.0,100.0%
+495,SQL Generation,High,3,4,Find all customers who have not placed any orders. Use customers and orders tables.,1.0,100.0%
+496,SQL Generation,High,3,5,Calculate the average salary per department from the employees table.,1.0,100.0%
+497,SQL Generation,High,3,6,"Get the names and emails of customers who signed up after January 1, 2024.",1.0,100.0%
+498,SQL Generation,High,3,7,Count the number of products in each category from the products table.,1.0,100.0%
+499,SQL Generation,High,3,8,Find the most recent order date from the orders table.,1.0,100.0%
+500,SQL Generation,High,3,9,List employees who earn more than the average salary of their department.,0.75,75.0%
+501,SQL Generation,High,5,0,Get the names of all employees in the 'Sales' department from the employees table.,1.0,100.0%
+502,SQL Generation,High,5,1,Find the total number of orders placed by each customer from the orders table.,1.0,100.0%
+503,SQL Generation,High,5,2,List all products whose price is greater than 100 from the products table.,1.0,100.0%
+504,SQL Generation,High,5,3,Get the top 5 highest-paid employees from the employees table.,1.0,100.0%
+505,SQL Generation,High,5,4,Find all customers who have not placed any orders. Use customers and orders tables.,1.0,100.0%
+506,SQL Generation,High,5,5,Calculate the average salary per department from the employees table.,1.0,100.0%
+507,SQL Generation,High,5,6,"Get the names and emails of customers who signed up after January 1, 2024.",1.0,100.0%
+508,SQL Generation,High,5,7,Count the number of products in each category from the products table.,1.0,100.0%
+509,SQL Generation,High,5,8,Find the most recent order date from the orders table.,1.0,100.0%
+510,SQL Generation,High,5,9,List employees who earn more than the average salary of their department.,0.75,75.0%
+511,SQL Generation,High,10,0,Get the names of all employees in the 'Sales' department from the employees table.,1.0,100.0%
+512,SQL Generation,High,10,1,Find the total number of orders placed by each customer from the orders table.,1.0,100.0%
+513,SQL Generation,High,10,2,List all products whose price is greater than 100 from the products table.,1.0,100.0%
+514,SQL Generation,High,10,3,Get the top 5 highest-paid employees from the employees table.,1.0,100.0%
+515,SQL Generation,High,10,4,Find all customers who have not placed any orders. Use customers and orders tables.,1.0,100.0%
+516,SQL Generation,High,10,5,Calculate the average salary per department from the employees table.,1.0,100.0%
+517,SQL Generation,High,10,6,"Get the names and emails of customers who signed up after January 1, 2024.",1.0,100.0%
+518,SQL Generation,High,10,7,Count the number of products in each category from the products table.,1.0,100.0%
+519,SQL Generation,High,10,8,Find the most recent order date from the orders table.,1.0,100.0%
+520,SQL Generation,High,10,9,List employees who earn more than the average salary of their department.,0.75,75.0%
+521,SQL Generation,Medium,1,0,Get the names of all employees in the 'Sales' department from the employees table.,1.0,100.0%
+522,SQL Generation,Medium,1,1,Find the total number of orders placed by each customer from the orders table.,1.0,100.0%
+523,SQL Generation,Medium,1,2,List all products whose price is greater than 100 from the products table.,1.0,100.0%
+524,SQL Generation,Medium,1,3,Get the top 5 highest-paid employees from the employees table.,1.0,100.0%
+525,SQL Generation,Medium,1,4,Find all customers who have not placed any orders. Use customers and orders tables.,0.5,50.0%
+526,SQL Generation,Medium,1,5,Calculate the average salary per department from the employees table.,1.0,100.0%
+527,SQL Generation,Medium,1,6,"Get the names and emails of customers who signed up after January 1, 2024.",1.0,100.0%
+528,SQL Generation,Medium,1,7,Count the number of products in each category from the products table.,1.0,100.0%
+529,SQL Generation,Medium,1,8,Find the most recent order date from the orders table.,1.0,100.0%
+530,SQL Generation,Medium,1,9,List employees who earn more than the average salary of their department.,0.75,75.0%
+531,SQL Generation,Medium,3,0,Get the names of all employees in the 'Sales' department from the employees table.,1.0,100.0%
+532,SQL Generation,Medium,3,1,Find the total number of orders placed by each customer from the orders table.,1.0,100.0%
+533,SQL Generation,Medium,3,2,List all products whose price is greater than 100 from the products table.,1.0,100.0%
+534,SQL Generation,Medium,3,3,Get the top 5 highest-paid employees from the employees table.,1.0,100.0%
+535,SQL Generation,Medium,3,4,Find all customers who have not placed any orders. Use customers and orders tables.,0.5,50.0%
+536,SQL Generation,Medium,3,5,Calculate the average salary per department from the employees table.,1.0,100.0%
+537,SQL Generation,Medium,3,6,"Get the names and emails of customers who signed up after January 1, 2024.",1.0,100.0%
+538,SQL Generation,Medium,3,7,Count the number of products in each category from the products table.,1.0,100.0%
+539,SQL Generation,Medium,3,8,Find the most recent order date from the orders table.,1.0,100.0%
+540,SQL Generation,Medium,3,9,List employees who earn more than the average salary of their department.,0.75,75.0%
+541,SQL Generation,Medium,5,0,Get the names of all employees in the 'Sales' department from the employees table.,1.0,100.0%
+542,SQL Generation,Medium,5,1,Find the total number of orders placed by each customer from the orders table.,1.0,100.0%
+543,SQL Generation,Medium,5,2,List all products whose price is greater than 100 from the products table.,1.0,100.0%
+544,SQL Generation,Medium,5,3,Get the top 5 highest-paid employees from the employees table.,1.0,100.0%
+545,SQL Generation,Medium,5,4,Find all customers who have not placed any orders. Use customers and orders tables.,0.5,50.0%
+546,SQL Generation,Medium,5,5,Calculate the average salary per department from the employees table.,1.0,100.0%
+547,SQL Generation,Medium,5,6,"Get the names and emails of customers who signed up after January 1, 2024.",1.0,100.0%
+548,SQL Generation,Medium,5,7,Count the number of products in each category from the products table.,1.0,100.0%
+549,SQL Generation,Medium,5,8,Find the most recent order date from the orders table.,1.0,100.0%
+550,SQL Generation,Medium,5,9,List employees who earn more than the average salary of their department.,0.75,75.0%
+551,SQL Generation,Medium,10,0,Get the names of all employees in the 'Sales' department from the employees table.,1.0,100.0%
+552,SQL Generation,Medium,10,1,Find the total number of orders placed by each customer from the orders table.,1.0,100.0%
+553,SQL Generation,Medium,10,2,List all products whose price is greater than 100 from the products table.,1.0,100.0%
+554,SQL Generation,Medium,10,3,Get the top 5 highest-paid employees from the employees table.,1.0,100.0%
+555,SQL Generation,Medium,10,4,Find all customers who have not placed any orders. Use customers and orders tables.,0.5,50.0%
+556,SQL Generation,Medium,10,5,Calculate the average salary per department from the employees table.,1.0,100.0%
+557,SQL Generation,Medium,10,6,"Get the names and emails of customers who signed up after January 1, 2024.",1.0,100.0%
+558,SQL Generation,Medium,10,7,Count the number of products in each category from the products table.,1.0,100.0%
+559,SQL Generation,Medium,10,8,Find the most recent order date from the orders table.,1.0,100.0%
+560,SQL Generation,Medium,10,9,List employees who earn more than the average salary of their department.,0.75,75.0%
+561,SQL Generation,Low,1,0,Get the names of all employees in the 'Sales' department from the employees table.,1.0,100.0%
+562,SQL Generation,Low,1,1,Find the total number of orders placed by each customer from the orders table.,1.0,100.0%
+563,SQL Generation,Low,1,2,List all products whose price is greater than 100 from the products table.,1.0,100.0%
+564,SQL Generation,Low,1,3,Get the top 5 highest-paid employees from the employees table.,1.0,100.0%
+565,SQL Generation,Low,1,4,Find all customers who have not placed any orders. Use customers and orders tables.,0.5,50.0%
+566,SQL Generation,Low,1,5,Calculate the average salary per department from the employees table.,1.0,100.0%
+567,SQL Generation,Low,1,6,"Get the names and emails of customers who signed up after January 1, 2024.",1.0,100.0%
+568,SQL Generation,Low,1,7,Count the number of products in each category from the products table.,1.0,100.0%
+569,SQL Generation,Low,1,8,Find the most recent order date from the orders table.,1.0,100.0%
+570,SQL Generation,Low,1,9,List employees who earn more than the average salary of their department.,1.0,100.0%
+571,SQL Generation,Low,3,0,Get the names of all employees in the 'Sales' department from the employees table.,1.0,100.0%
+572,SQL Generation,Low,3,1,Find the total number of orders placed by each customer from the orders table.,1.0,100.0%
+573,SQL Generation,Low,3,2,List all products whose price is greater than 100 from the products table.,1.0,100.0%
+574,SQL Generation,Low,3,3,Get the top 5 highest-paid employees from the employees table.,1.0,100.0%
+575,SQL Generation,Low,3,4,Find all customers who have not placed any orders. Use customers and orders tables.,0.5,50.0%
+576,SQL Generation,Low,3,5,Calculate the average salary per department from the employees table.,1.0,100.0%
+577,SQL Generation,Low,3,6,"Get the names and emails of customers who signed up after January 1, 2024.",1.0,100.0%
+578,SQL Generation,Low,3,7,Count the number of products in each category from the products table.,1.0,100.0%
+579,SQL Generation,Low,3,8,Find the most recent order date from the orders table.,1.0,100.0%
+580,SQL Generation,Low,3,9,List employees who earn more than the average salary of their department.,0.75,75.0%
+581,SQL Generation,Low,5,0,Get the names of all employees in the 'Sales' department from the employees table.,1.0,100.0%
+582,SQL Generation,Low,5,1,Find the total number of orders placed by each customer from the orders table.,1.0,100.0%
+583,SQL Generation,Low,5,2,List all products whose price is greater than 100 from the products table.,1.0,100.0%
+584,SQL Generation,Low,5,3,Get the top 5 highest-paid employees from the employees table.,1.0,100.0%
+585,SQL Generation,Low,5,4,Find all customers who have not placed any orders. Use customers and orders tables.,0.5,50.0%
+586,SQL Generation,Low,5,5,Calculate the average salary per department from the employees table.,1.0,100.0%
+587,SQL Generation,Low,5,6,"Get the names and emails of customers who signed up after January 1, 2024.",1.0,100.0%
+588,SQL Generation,Low,5,7,Count the number of products in each category from the products table.,1.0,100.0%
+589,SQL Generation,Low,5,8,Find the most recent order date from the orders table.,1.0,100.0%
+590,SQL Generation,Low,5,9,List employees who earn more than the average salary of their department.,0.75,75.0%
+591,SQL Generation,Low,10,0,Get the names of all employees in the 'Sales' department from the employees table.,1.0,100.0%
+592,SQL Generation,Low,10,1,Find the total number of orders placed by each customer from the orders table.,1.0,100.0%
+593,SQL Generation,Low,10,2,List all products whose price is greater than 100 from the products table.,1.0,100.0%
+594,SQL Generation,Low,10,3,Get the top 5 highest-paid employees from the employees table.,1.0,100.0%
+595,SQL Generation,Low,10,4,Find all customers who have not placed any orders. Use customers and orders tables.,1.0,100.0%
+596,SQL Generation,Low,10,5,Calculate the average salary per department from the employees table.,1.0,100.0%
+597,SQL Generation,Low,10,6,"Get the names and emails of customers who signed up after January 1, 2024.",1.0,100.0%
+598,SQL Generation,Low,10,7,Count the number of products in each category from the products table.,1.0,100.0%
+599,SQL Generation,Low,10,8,Find the most recent order date from the orders table.,1.0,100.0%
+600,SQL Generation,Low,10,9,List employees who earn more than the average salary of their department.,0.75,75.0%

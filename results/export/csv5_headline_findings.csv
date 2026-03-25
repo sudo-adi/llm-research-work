@@ -1,0 +1,10 @@
+finding,value_a,score_a_pct,value_b,score_b_pct,difference_pp,winner
+Overall Quality Effect,High Quality,86.4%,Low Quality,65.2%,21.1 pp,High Quality
+Overall Quality Effect,Medium Quality,65.9%,Low Quality,65.2%,0.7 pp,Medium Quality
+Core Claim: 3 High vs 10 Low,3 High-Quality Examples,85.6%,10 Low-Quality Examples,63.0%,22.7 pp,3 High-Quality Examples
+Shot Count Effect (High Quality only),1 Shot — High Quality,83.3%,10 Shots — High Quality,90.8%,7.6 pp,10 Shots — High Quality
+Domain Effect — JSON Extraction,High Quality,66.8%,Low Quality,1.1%,65.8 pp,High Quality
+Domain Effect — Code Debugging,High Quality,75.7%,Low Quality,66.2%,9.6 pp,High Quality
+Domain Effect — Math Word Problems,High Quality,100.0%,Low Quality,80.0%,20.0 pp,High Quality
+Domain Effect — Text Summarization,High Quality,91.7%,Low Quality,84.5%,7.2 pp,High Quality
+Domain Effect — SQL Generation,High Quality,97.5%,Low Quality,94.4%,3.1 pp,High Quality
